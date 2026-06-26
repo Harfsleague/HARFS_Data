@@ -1,24 +1,20 @@
 {
-  "name": "HARFS League",
-  "short_name": "HARFS",
-  "description": "HARFS Fantasy Football League",
-  "start_url": "https://harfsleague.github.io/",
-  "display": "standalone",
-  "background_color": "#0f172a",
-  "theme_color": "#0f172a",
-  "orientation": "portrait",
+  "short_name": "HARFS League",
+  "name": "HARFS League System",
   "icons": [
     {
       "src": "https://raw.githubusercontent.com/Harfsleague/HARFS_Data/main/icon-192.png",
-      "sizes": "192x192",
       "type": "image/png",
-      "purpose": "any maskable"
+      "sizes": "192x192"
     },
     {
       "src": "https://raw.githubusercontent.com/Harfsleague/HARFS_Data/main/icon-512.png",
-      "sizes": "512x512",
       "type": "image/png",
-      "purpose": "any maskable"
+      "sizes": "512x512"
     }
-  ]
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#0f172a",
+  "background_color": "#0f172a"
 }
