@@ -1,14 +1,143 @@
 {
   "HOSI": {
-    "totalPoints": 15
+    "coins": 625,
+    "coinLog": [
+      {
+        "ts": "2026-08-21T19:35:23.775Z",
+        "delta": 169,
+        "reason": "Retroactive backfill — Season 6"
+      },
+      {
+        "ts": "2026-08-21T19:35:23.775Z",
+        "delta": 102,
+        "reason": "Retroactive backfill — Season 5"
+      },
+      {
+        "ts": "2026-08-21T19:35:23.775Z",
+        "delta": 112,
+        "reason": "Retroactive backfill — Season 4"
+      },
+      {
+        "ts": "2026-08-21T19:35:23.775Z",
+        "delta": 112,
+        "reason": "Retroactive backfill — Season 3"
+      },
+      {
+        "ts": "2026-08-21T19:35:23.775Z",
+        "delta": 68,
+        "reason": "Retroactive backfill — Season 2"
+      },
+      {
+        "ts": "2026-08-21T19:35:23.775Z",
+        "delta": 62,
+        "reason": "Retroactive backfill — Season 1"
+      }
+    ],
+    "ownedItems": [],
+    "pinned": null,
+    "totalPoints": 15,
+    "backfillAppliedAt": "2026-08-21T19:35:23.775Z"
   },
   "Sajsfi": {
-    "totalPoints": 15
+    "coins": 605,
+    "coinLog": [
+      {
+        "ts": "2026-08-21T19:35:23.775Z",
+        "delta": 102,
+        "reason": "Retroactive backfill — Season 6"
+      },
+      {
+        "ts": "2026-08-21T19:35:23.775Z",
+        "delta": 131,
+        "reason": "Retroactive backfill — Season 5"
+      },
+      {
+        "ts": "2026-08-21T19:35:23.775Z",
+        "delta": 83,
+        "reason": "Retroactive backfill — Season 4"
+      },
+      {
+        "ts": "2026-08-21T19:35:23.775Z",
+        "delta": 77,
+        "reason": "Retroactive backfill — Season 3"
+      },
+      {
+        "ts": "2026-08-21T19:35:23.775Z",
+        "delta": 103,
+        "reason": "Retroactive backfill — Season 2"
+      },
+      {
+        "ts": "2026-08-21T19:35:23.775Z",
+        "delta": 109,
+        "reason": "Retroactive backfill — Season 1"
+      }
+    ],
+    "ownedItems": [],
+    "pinned": null,
+    "totalPoints": 15,
+    "backfillAppliedAt": "2026-08-21T19:35:23.775Z"
   },
   "Bayern": {
-    "totalPoints": 4
+    "coins": 232,
+    "coinLog": [
+      {
+        "ts": "2026-08-21T19:35:23.775Z",
+        "delta": 36,
+        "reason": "Retroactive backfill — Season 6"
+      },
+      {
+        "ts": "2026-08-21T19:35:23.775Z",
+        "delta": 69,
+        "reason": "Retroactive backfill — Season 5"
+      },
+      {
+        "ts": "2026-08-21T19:35:23.775Z",
+        "delta": 32,
+        "reason": "Retroactive backfill — Season 4"
+      },
+      {
+        "ts": "2026-08-21T19:35:23.775Z",
+        "delta": 26,
+        "reason": "Retroactive backfill — Season 3"
+      },
+      {
+        "ts": "2026-08-21T19:35:23.775Z",
+        "delta": 47,
+        "reason": "Retroactive backfill — Season 2"
+      },
+      {
+        "ts": "2026-08-21T19:35:23.775Z",
+        "delta": 22,
+        "reason": "Retroactive backfill — Season 1"
+      }
+    ],
+    "ownedItems": [],
+    "pinned": null,
+    "totalPoints": 4,
+    "backfillAppliedAt": "2026-08-21T19:35:23.775Z"
   },
   "Yellow": {
-    "totalPoints": 2
+    "coins": 156,
+    "coinLog": [
+      {
+        "ts": "2026-08-21T19:35:23.775Z",
+        "delta": 78,
+        "reason": "Retroactive backfill — Season 6"
+      },
+      {
+        "ts": "2026-08-21T19:35:23.775Z",
+        "delta": 45,
+        "reason": "Retroactive backfill — Season 5"
+      },
+      {
+        "ts": "2026-08-21T19:35:23.775Z",
+        "delta": 33,
+        "reason": "Retroactive backfill — Season 1"
+      }
+    ],
+    "ownedItems": [],
+    "pinned": null,
+    "totalPoints": 2,
+    "backfillAppliedAt": "2026-08-21T19:35:23.775Z"
   }
 }
