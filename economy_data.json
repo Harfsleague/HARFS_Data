@@ -2,31 +2,63 @@
   "seasonId": 1,
   "teams": {
     "Bayern": {
-      "coins": 232,
+      "coins": 464,
       "logos": [],
       "badges": [],
       "arenaPurchaseCounts": {}
     },
     "HOSI": {
-      "coins": 575,
+      "coins": 1150,
       "logos": [],
       "badges": [],
       "arenaPurchaseCounts": {}
     },
     "Sajsfi": {
-      "coins": 575,
+      "coins": 1150,
       "logos": [],
       "badges": [],
       "arenaPurchaseCounts": {}
     },
     "Yellow": {
-      "coins": 141,
+      "coins": 282,
       "logos": [],
       "badges": [],
       "arenaPurchaseCounts": {}
     }
   },
   "transactions": [
+    {
+      "id": "tx_backfill_1787336153710_8qxap",
+      "ts": "2026-08-21T18:15:53.710Z",
+      "team": "Yellow",
+      "type": "earn",
+      "amount": 141,
+      "reason": "Historical backfill (season_1, season_2, season_3, season_4, season_5, season_6)"
+    },
+    {
+      "id": "tx_backfill_1787336153710_pk7a9",
+      "ts": "2026-08-21T18:15:53.710Z",
+      "team": "Sajsfi",
+      "type": "earn",
+      "amount": 575,
+      "reason": "Historical backfill (season_1, season_2, season_3, season_4, season_5, season_6)"
+    },
+    {
+      "id": "tx_backfill_1787336153710_jiure",
+      "ts": "2026-08-21T18:15:53.710Z",
+      "team": "HOSI",
+      "type": "earn",
+      "amount": 575,
+      "reason": "Historical backfill (season_1, season_2, season_3, season_4, season_5, season_6)"
+    },
+    {
+      "id": "tx_backfill_1787336153710_vdgx6",
+      "ts": "2026-08-21T18:15:53.710Z",
+      "team": "Bayern",
+      "type": "earn",
+      "amount": 232,
+      "reason": "Historical backfill (season_1, season_2, season_3, season_4, season_5, season_6)"
+    },
     {
       "id": "tx_backfill_1787335988904_8aiuh",
       "ts": "2026-08-21T18:13:08.903Z",
@@ -90,6 +122,36 @@
     },
     {
       "ts": "2026-08-21T18:13:08.903Z",
+      "type": "season",
+      "seasonId": 6
+    },
+    {
+      "ts": "2026-08-21T18:15:53.710Z",
+      "type": "season",
+      "seasonId": 1
+    },
+    {
+      "ts": "2026-08-21T18:15:53.710Z",
+      "type": "season",
+      "seasonId": 2
+    },
+    {
+      "ts": "2026-08-21T18:15:53.710Z",
+      "type": "season",
+      "seasonId": 3
+    },
+    {
+      "ts": "2026-08-21T18:15:53.710Z",
+      "type": "season",
+      "seasonId": 4
+    },
+    {
+      "ts": "2026-08-21T18:15:53.710Z",
+      "type": "season",
+      "seasonId": 5
+    },
+    {
+      "ts": "2026-08-21T18:15:53.710Z",
       "type": "season",
       "seasonId": 6
     }
