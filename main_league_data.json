@@ -35,8 +35,9 @@
     ],
     "ownedItems": [],
     "pinned": null,
-    "totalPoints": 15,
-    "backfillAppliedAt": "2026-08-21T19:35:23.775Z"
+    "backfillAppliedAt": "2026-08-21T19:35:23.775Z",
+    "arenaUsage": {},
+    "arenaHistory": []
   },
   "Sajsfi": {
     "coins": 605,
@@ -74,12 +75,18 @@
     ],
     "ownedItems": [],
     "pinned": null,
-    "totalPoints": 15,
-    "backfillAppliedAt": "2026-08-21T19:35:23.775Z"
+    "backfillAppliedAt": "2026-08-21T19:35:23.775Z",
+    "arenaUsage": {},
+    "arenaHistory": []
   },
   "Bayern": {
-    "coins": 232,
+    "coins": 202,
     "coinLog": [
+      {
+        "ts": "2026-08-22T05:17:03.273Z",
+        "delta": -30,
+        "reason": "Pinned a message"
+      },
       {
         "ts": "2026-08-21T19:35:23.775Z",
         "delta": 36,
@@ -112,9 +119,13 @@
       }
     ],
     "ownedItems": [],
-    "pinned": null,
-    "totalPoints": 4,
-    "backfillAppliedAt": "2026-08-21T19:35:23.775Z"
+    "pinned": {
+      "text": "TEST",
+      "expiresAt": "2026-09-05T05:17:03.273Z"
+    },
+    "backfillAppliedAt": "2026-08-21T19:35:23.775Z",
+    "arenaUsage": {},
+    "arenaHistory": []
   },
   "Yellow": {
     "coins": 156,
@@ -137,7 +148,8 @@
     ],
     "ownedItems": [],
     "pinned": null,
-    "totalPoints": 2,
-    "backfillAppliedAt": "2026-08-21T19:35:23.775Z"
+    "backfillAppliedAt": "2026-08-21T19:35:23.775Z",
+    "arenaUsage": {},
+    "arenaHistory": []
   }
 }
