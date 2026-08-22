@@ -80,8 +80,13 @@
     "arenaHistory": []
   },
   "Bayern": {
-    "coins": 202,
+    "coins": 122,
     "coinLog": [
+      {
+        "ts": "2026-08-22T05:43:44.615Z",
+        "delta": -80,
+        "reason": "Bought: Custom Crest Skin"
+      },
       {
         "ts": "2026-08-22T05:17:03.273Z",
         "delta": -30,
@@ -118,7 +123,15 @@
         "reason": "Retroactive backfill — Season 1"
       }
     ],
-    "ownedItems": [],
+    "ownedItems": [
+      {
+        "id": "crest_skin",
+        "name": "Custom Crest Skin",
+        "acquiredAt": "2026-08-22T05:43:44.615Z",
+        "rentPerSeason": 5,
+        "unpaidSeasons": 0
+      }
+    ],
     "pinned": {
       "text": "TEST",
       "expiresAt": "2026-09-05T05:17:03.273Z"
