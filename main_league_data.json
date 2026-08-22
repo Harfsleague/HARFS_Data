@@ -1,37 +1,7 @@
 {
   "HOSI": {
-    "coins": 625,
+    "coins": 50,
     "coinLog": [
-      {
-        "ts": "2026-08-21T19:35:23.775Z",
-        "delta": 169,
-        "reason": "Retroactive backfill — Season 6"
-      },
-      {
-        "ts": "2026-08-21T19:35:23.775Z",
-        "delta": 102,
-        "reason": "Retroactive backfill — Season 5"
-      },
-      {
-        "ts": "2026-08-21T19:35:23.775Z",
-        "delta": 112,
-        "reason": "Retroactive backfill — Season 4"
-      },
-      {
-        "ts": "2026-08-21T19:35:23.775Z",
-        "delta": 112,
-        "reason": "Retroactive backfill — Season 3"
-      },
-      {
-        "ts": "2026-08-21T19:35:23.775Z",
-        "delta": 68,
-        "reason": "Retroactive backfill — Season 2"
-      },
-      {
-        "ts": "2026-08-21T19:35:23.775Z",
-        "delta": 62,
-        "reason": "Retroactive backfill — Season 1"
-      }
     ],
     "ownedItems": [],
     "pinned": null,
@@ -40,38 +10,8 @@
     "arenaHistory": []
   },
   "Sajsfi": {
-    "coins": 605,
-    "coinLog": [
-      {
-        "ts": "2026-08-21T19:35:23.775Z",
-        "delta": 102,
-        "reason": "Retroactive backfill — Season 6"
-      },
-      {
-        "ts": "2026-08-21T19:35:23.775Z",
-        "delta": 131,
-        "reason": "Retroactive backfill — Season 5"
-      },
-      {
-        "ts": "2026-08-21T19:35:23.775Z",
-        "delta": 83,
-        "reason": "Retroactive backfill — Season 4"
-      },
-      {
-        "ts": "2026-08-21T19:35:23.775Z",
-        "delta": 77,
-        "reason": "Retroactive backfill — Season 3"
-      },
-      {
-        "ts": "2026-08-21T19:35:23.775Z",
-        "delta": 103,
-        "reason": "Retroactive backfill — Season 2"
-      },
-      {
-        "ts": "2026-08-21T19:35:23.775Z",
-        "delta": 109,
-        "reason": "Retroactive backfill — Season 1"
-      }
+    "coins": 50,
+    "coinLog": [ 
     ],
     "ownedItems": [],
     "pinned": null,
@@ -80,96 +20,18 @@
     "arenaHistory": []
   },
   "Bayern": {
-    "coins": 72,
+    "coins": 50,
     "coinLog": [
-      {
-        "ts": "2026-08-22T07:25:36.592Z",
-        "delta": -50,
-        "reason": "Bought: Profile Frame"
-      },
-      {
-        "ts": "2026-08-22T05:43:44.615Z",
-        "delta": -80,
-        "reason": "Bought: Custom Crest Skin"
-      },
-      {
-        "ts": "2026-08-22T05:17:03.273Z",
-        "delta": -30,
-        "reason": "Pinned a message"
-      },
-      {
-        "ts": "2026-08-21T19:35:23.775Z",
-        "delta": 36,
-        "reason": "Retroactive backfill — Season 6"
-      },
-      {
-        "ts": "2026-08-21T19:35:23.775Z",
-        "delta": 69,
-        "reason": "Retroactive backfill — Season 5"
-      },
-      {
-        "ts": "2026-08-21T19:35:23.775Z",
-        "delta": 32,
-        "reason": "Retroactive backfill — Season 4"
-      },
-      {
-        "ts": "2026-08-21T19:35:23.775Z",
-        "delta": 26,
-        "reason": "Retroactive backfill — Season 3"
-      },
-      {
-        "ts": "2026-08-21T19:35:23.775Z",
-        "delta": 47,
-        "reason": "Retroactive backfill — Season 2"
-      },
-      {
-        "ts": "2026-08-21T19:35:23.775Z",
-        "delta": 22,
-        "reason": "Retroactive backfill — Season 1"
-      }
     ],
-    "ownedItems": [
-      {
-        "id": "crest_skin",
-        "name": "Custom Crest Skin",
-        "acquiredAt": "2026-08-22T05:43:44.615Z",
-        "rentPerSeason": 5,
-        "unpaidSeasons": 0
-      },
-      {
-        "id": "profile_frame",
-        "name": "Profile Frame",
-        "acquiredAt": "2026-08-22T07:25:36.592Z",
-        "rentPerSeason": 0,
-        "unpaidSeasons": 0
-      }
-    ],
-    "pinned": {
-      "text": "TEST",
-      "expiresAt": "2026-09-05T05:17:03.273Z"
-    },
+    "ownedItems": [],
+    "pinned": null,
     "backfillAppliedAt": "2026-08-21T19:35:23.775Z",
     "arenaUsage": {},
     "arenaHistory": []
   },
   "Yellow": {
-    "coins": 156,
+    "coins": 50,
     "coinLog": [
-      {
-        "ts": "2026-08-21T19:35:23.775Z",
-        "delta": 78,
-        "reason": "Retroactive backfill — Season 6"
-      },
-      {
-        "ts": "2026-08-21T19:35:23.775Z",
-        "delta": 45,
-        "reason": "Retroactive backfill — Season 5"
-      },
-      {
-        "ts": "2026-08-21T19:35:23.775Z",
-        "delta": 33,
-        "reason": "Retroactive backfill — Season 1"
-      }
     ],
     "ownedItems": [],
     "pinned": null,
