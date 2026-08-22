@@ -80,8 +80,13 @@
     "arenaHistory": []
   },
   "Bayern": {
-    "coins": 122,
+    "coins": 72,
     "coinLog": [
+      {
+        "ts": "2026-08-22T07:25:36.592Z",
+        "delta": -50,
+        "reason": "Bought: Profile Frame"
+      },
       {
         "ts": "2026-08-22T05:43:44.615Z",
         "delta": -80,
@@ -129,6 +134,13 @@
         "name": "Custom Crest Skin",
         "acquiredAt": "2026-08-22T05:43:44.615Z",
         "rentPerSeason": 5,
+        "unpaidSeasons": 0
+      },
+      {
+        "id": "profile_frame",
+        "name": "Profile Frame",
+        "acquiredAt": "2026-08-22T07:25:36.592Z",
+        "rentPerSeason": 0,
         "unpaidSeasons": 0
       }
     ],
