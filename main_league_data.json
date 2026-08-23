@@ -1,18 +1,16 @@
 {
   "HOSI": {
     "coins": 50,
-    "coinLog": [
-    ],
+    "coinLog": [],
     "ownedItems": [],
     "pinned": null,
     "backfillAppliedAt": "2026-08-21T19:35:23.775Z",
     "arenaUsage": {},
     "arenaHistory": []
   },
-  "Sajsfi": {
+  "Sezar": {
     "coins": 50,
-    "coinLog": [ 
-    ],
+    "coinLog": [],
     "ownedItems": [],
     "pinned": null,
     "backfillAppliedAt": "2026-08-21T19:35:23.775Z",
@@ -21,8 +19,7 @@
   },
   "Bayern": {
     "coins": 50,
-    "coinLog": [
-    ],
+    "coinLog": [],
     "ownedItems": [],
     "pinned": null,
     "backfillAppliedAt": "2026-08-21T19:35:23.775Z",
@@ -31,8 +28,7 @@
   },
   "Yellow": {
     "coins": 50,
-    "coinLog": [
-    ],
+    "coinLog": [],
     "ownedItems": [],
     "pinned": null,
     "backfillAppliedAt": "2026-08-21T19:35:23.775Z",
