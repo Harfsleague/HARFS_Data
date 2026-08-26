@@ -1,7 +1,12 @@
 {
   "HOSI": {
-    "coins": 60,
+    "coins": 70,
     "coinLog": [
+      {
+        "ts": "2026-08-26T17:35:23.481Z",
+        "delta": 10,
+        "reason": "Match won"
+      },
       {
         "ts": "2026-08-26T17:16:24.040Z",
         "delta": 10,
@@ -30,8 +35,14 @@
     "arenaHistory": []
   },
   "Bayern": {
-    "coins": 50,
-    "coinLog": [],
+    "coins": 51,
+    "coinLog": [
+      {
+        "ts": "2026-08-26T17:35:23.481Z",
+        "delta": 1,
+        "reason": "Match played"
+      }
+    ],
     "ownedItems": [],
     "pinned": null,
     "backfillAppliedAt": "2026-08-21T19:35:23.775Z",
