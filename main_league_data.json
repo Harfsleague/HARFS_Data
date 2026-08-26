@@ -20,8 +20,13 @@
     "arenaHistory": []
   },
   "Sezar": {
-    "coins": 51,
+    "coins": 61,
     "coinLog": [
+      {
+        "ts": "2026-08-26T17:57:51.489Z",
+        "delta": 10,
+        "reason": "Match won"
+      },
       {
         "ts": "2026-08-26T17:16:24.040Z",
         "delta": 1,
@@ -35,8 +40,13 @@
     "arenaHistory": []
   },
   "Bayern": {
-    "coins": 51,
+    "coins": 52,
     "coinLog": [
+      {
+        "ts": "2026-08-26T17:57:51.489Z",
+        "delta": 1,
+        "reason": "Match played"
+      },
       {
         "ts": "2026-08-26T17:35:23.481Z",
         "delta": 1,
