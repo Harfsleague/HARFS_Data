@@ -33,7 +33,7 @@
     "coins": 47,
     "coinLog": [
       {
-        "ts": "2026-08-27T19:28:51.217Z",
+        "ts": "2026-08-27T19:30:10.400Z",
         "delta": -18,
         "reason": "Mystery Perk: entry fee"
       },
@@ -62,14 +62,15 @@
     "pinned": null,
     "arenaUsage": {
       "arena_mystery": 2,
-      "coin_insurance": 1
+      "coin_insurance": 1,
+      "goal_handicap": 1
     },
     "arenaHistory": [
       {
-        "id": "arena_mystery",
-        "name": "Mystery Perk (bust)",
-        "cost": 18,
-        "ts": "2026-08-27T19:28:51.218Z"
+        "id": "goal_handicap",
+        "name": "Goal Handicap (won from Mystery Perk)",
+        "cost": 0,
+        "ts": "2026-08-27T19:30:10.400Z"
       },
       {
         "id": "coin_insurance",
