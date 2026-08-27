@@ -75,12 +75,27 @@
     "arenaHistory": []
   },
   "Yellow": {
-    "coins": 50,
-    "coinLog": [],
+    "coins": 0,
+    "coinLog": [
+      {
+        "ts": "2026-08-27T18:39:24.847Z",
+        "delta": -50,
+        "reason": "Bought: Redo First Half"
+      }
+    ],
     "ownedItems": [],
     "pinned": null,
     "backfillAppliedAt": "2026-08-21T19:35:23.775Z",
-    "arenaUsage": {},
-    "arenaHistory": []
+    "arenaUsage": {
+      "redo_half": 1
+    },
+    "arenaHistory": [
+      {
+        "id": "redo_half",
+        "name": "Redo First Half",
+        "cost": 50,
+        "ts": "2026-08-27T18:39:24.850Z"
+      }
+    ]
   }
 }
