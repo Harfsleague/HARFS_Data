@@ -30,8 +30,13 @@
     "arenaHistory": []
   },
   "Sezar": {
-    "coins": 65,
+    "coins": 47,
     "coinLog": [
+      {
+        "ts": "2026-08-27T19:13:23.027Z",
+        "delta": -18,
+        "reason": "Mystery Perk: entry fee"
+      },
       {
         "ts": "2026-08-27T19:08:16.416Z",
         "delta": 16,
@@ -57,10 +62,16 @@
     "pinned": null,
     "backfillAppliedAt": "2026-08-21T19:35:23.775Z",
     "arenaUsage": {
-      "arena_mystery": 1,
+      "arena_mystery": 2,
       "coin_insurance": 1
     },
     "arenaHistory": [
+      {
+        "id": "arena_mystery",
+        "name": "Mystery Perk (bust)",
+        "cost": 18,
+        "ts": "2026-08-27T19:13:23.030Z"
+      },
       {
         "id": "coin_insurance",
         "name": "Coin Insurance (won from Mystery Perk)",
