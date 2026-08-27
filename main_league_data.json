@@ -20,8 +20,13 @@
     "arenaHistory": []
   },
   "Sezar": {
-    "coins": 61,
+    "coins": 49,
     "coinLog": [
+      {
+        "ts": "2026-08-27T14:04:34.220Z",
+        "delta": -12,
+        "reason": "Mystery Perk: entry fee"
+      },
       {
         "ts": "2026-08-26T17:57:51.489Z",
         "delta": 10,
@@ -36,8 +41,18 @@
     "ownedItems": [],
     "pinned": null,
     "backfillAppliedAt": "2026-08-21T19:35:23.775Z",
-    "arenaUsage": {},
-    "arenaHistory": []
+    "arenaUsage": {
+      "arena_mystery": 1,
+      "coin_insurance": 1
+    },
+    "arenaHistory": [
+      {
+        "id": "coin_insurance",
+        "name": "Coin Insurance (won from Mystery Perk)",
+        "cost": 0,
+        "ts": "2026-08-27T14:04:34.234Z"
+      }
+    ]
   },
   "Bayern": {
     "coins": 52,
