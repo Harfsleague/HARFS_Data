@@ -1,7 +1,17 @@
 {
   "HOSI": {
-    "coins": 70,
+    "coins": 93,
     "coinLog": [
+      {
+        "ts": "2026-08-27T18:54:28.078Z",
+        "delta": 10,
+        "reason": "3-win streak bonus"
+      },
+      {
+        "ts": "2026-08-27T18:54:28.075Z",
+        "delta": 13,
+        "reason": "Match won + big win"
+      },
       {
         "ts": "2026-08-26T17:35:23.481Z",
         "delta": 10,
@@ -75,8 +85,13 @@
     "arenaHistory": []
   },
   "Yellow": {
-    "coins": 0,
+    "coins": 1,
     "coinLog": [
+      {
+        "ts": "2026-08-27T18:54:28.075Z",
+        "delta": 1,
+        "reason": "Match played"
+      },
       {
         "ts": "2026-08-27T18:39:24.847Z",
         "delta": -50,
