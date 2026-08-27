@@ -30,8 +30,13 @@
     "arenaHistory": []
   },
   "Sezar": {
-    "coins": 49,
+    "coins": 65,
     "coinLog": [
+      {
+        "ts": "2026-08-27T19:08:16.416Z",
+        "delta": 16,
+        "reason": "Match won + clean sheet + big win"
+      },
       {
         "ts": "2026-08-27T14:04:34.220Z",
         "delta": -12,
@@ -85,8 +90,13 @@
     "arenaHistory": []
   },
   "Yellow": {
-    "coins": 1,
+    "coins": 2,
     "coinLog": [
+      {
+        "ts": "2026-08-27T19:08:16.416Z",
+        "delta": 1,
+        "reason": "Match played"
+      },
       {
         "ts": "2026-08-27T18:54:28.075Z",
         "delta": 1,
