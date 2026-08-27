@@ -25,18 +25,13 @@
     ],
     "ownedItems": [],
     "pinned": null,
-    "backfillAppliedAt": "2026-08-21T19:35:23.775Z",
     "arenaUsage": {},
-    "arenaHistory": []
+    "arenaHistory": [],
+    "backfillAppliedAt": "2026-08-21T19:35:23.775Z"
   },
   "Sezar": {
-    "coins": 47,
+    "coins": 65,
     "coinLog": [
-      {
-        "ts": "2026-08-27T19:13:23.027Z",
-        "delta": -18,
-        "reason": "Mystery Perk: entry fee"
-      },
       {
         "ts": "2026-08-27T19:08:16.416Z",
         "delta": 16,
@@ -60,29 +55,28 @@
     ],
     "ownedItems": [],
     "pinned": null,
-    "backfillAppliedAt": "2026-08-21T19:35:23.775Z",
     "arenaUsage": {
-      "arena_mystery": 2,
+      "arena_mystery": 1,
       "coin_insurance": 1
     },
     "arenaHistory": [
-      {
-        "id": "arena_mystery",
-        "name": "Mystery Perk (bust)",
-        "cost": 18,
-        "ts": "2026-08-27T19:13:23.030Z"
-      },
       {
         "id": "coin_insurance",
         "name": "Coin Insurance (won from Mystery Perk)",
         "cost": 0,
         "ts": "2026-08-27T14:04:34.234Z"
       }
-    ]
+    ],
+    "backfillAppliedAt": "2026-08-21T19:35:23.775Z"
   },
   "Bayern": {
-    "coins": 52,
+    "coins": 65,
     "coinLog": [
+      {
+        "ts": "2026-08-27T19:25:35.819Z",
+        "delta": 13,
+        "reason": "Match won + clean sheet"
+      },
       {
         "ts": "2026-08-26T17:57:51.489Z",
         "delta": 1,
@@ -96,13 +90,18 @@
     ],
     "ownedItems": [],
     "pinned": null,
-    "backfillAppliedAt": "2026-08-21T19:35:23.775Z",
     "arenaUsage": {},
-    "arenaHistory": []
+    "arenaHistory": [],
+    "backfillAppliedAt": "2026-08-21T19:35:23.775Z"
   },
   "Yellow": {
-    "coins": 2,
+    "coins": 3,
     "coinLog": [
+      {
+        "ts": "2026-08-27T19:25:35.819Z",
+        "delta": 1,
+        "reason": "Match played"
+      },
       {
         "ts": "2026-08-27T19:08:16.416Z",
         "delta": 1,
@@ -121,7 +120,6 @@
     ],
     "ownedItems": [],
     "pinned": null,
-    "backfillAppliedAt": "2026-08-21T19:35:23.775Z",
     "arenaUsage": {
       "redo_half": 1
     },
@@ -132,6 +130,7 @@
         "cost": 50,
         "ts": "2026-08-27T18:39:24.850Z"
       }
-    ]
+    ],
+    "backfillAppliedAt": "2026-08-21T19:35:23.775Z"
   }
 }
