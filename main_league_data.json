@@ -111,8 +111,13 @@
     "backfillAppliedAt": "2026-08-21T19:35:23.775Z"
   },
   "Bayern": {
-    "coins": 165,
+    "coins": 65,
     "coinLog": [
+      {
+        "ts": "2026-08-31T13:20:19.943Z",
+        "delta": -100,
+        "reason": "Manual admin adjustment"
+      },
       {
         "ts": "2026-08-30T17:22:59.130Z",
         "delta": 100,
