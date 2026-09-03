@@ -59,8 +59,13 @@
     "backfillAppliedAt": "2026-08-21T19:35:23.775Z"
   },
   "Sezar": {
-    "coins": 48,
+    "coins": 58,
     "coinLog": [
+      {
+        "ts": "2026-09-03T19:06:18.659Z",
+        "delta": 10,
+        "reason": "Match won"
+      },
       {
         "ts": "2026-08-27T19:50:26.317Z",
         "delta": 1,
@@ -116,8 +121,13 @@
     "backfillAppliedAt": "2026-08-21T19:35:23.775Z"
   },
   "Bayern": {
-    "coins": 69,
+    "coins": 70,
     "coinLog": [
+      {
+        "ts": "2026-09-03T19:06:18.658Z",
+        "delta": 1,
+        "reason": "Match played"
+      },
       {
         "ts": "2026-09-03T18:46:02.109Z",
         "delta": 4,
