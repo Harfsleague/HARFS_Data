@@ -1,7 +1,12 @@
 {
   "HOSI": {
-    "coins": 53,
+    "coins": 57,
     "coinLog": [
+      {
+        "ts": "2026-09-03T18:46:02.108Z",
+        "delta": 4,
+        "reason": "Match drawn"
+      },
       {
         "ts": "2026-08-27T19:50:26.319Z",
         "delta": 10,
@@ -111,8 +116,13 @@
     "backfillAppliedAt": "2026-08-21T19:35:23.775Z"
   },
   "Bayern": {
-    "coins": 65,
+    "coins": 69,
     "coinLog": [
+      {
+        "ts": "2026-09-03T18:46:02.109Z",
+        "delta": 4,
+        "reason": "Match drawn"
+      },
       {
         "ts": "2026-08-31T13:20:19.943Z",
         "delta": -100,
