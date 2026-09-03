@@ -1,6 +1,12 @@
 [
   {
     "home": "HOSI",
+    "away": "Bayern",
+    "score": "1-1",
+    "timestamp": "2026-09-03T18:46:02.099Z"
+  },
+  {
+    "home": "HOSI",
     "away": "Sezar",
     "score": "4-3",
     "timestamp": "2026-08-27T19:50:26.315Z"
