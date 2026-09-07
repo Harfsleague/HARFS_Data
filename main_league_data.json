@@ -201,15 +201,8 @@
         "logo": "https://media.api-sports.io/football/leagues/78.png"
       }
     ],
-    "liveScoreFavTeams": [
-      {
-        "id": 157,
-        "name": "Bayern München",
-        "logo": "https://media.api-sports.io/football/teams/157.png",
-        "country": "Germany"
-      }
-    ],
-    "liveScoreFavoritesOnly": true,
+    "liveScoreFavTeams": [],
+    "liveScoreFavoritesOnly": false,
     "liveScorePrefsSynced": true,
     "arenaUsage": {},
     "arenaHistory": [],
