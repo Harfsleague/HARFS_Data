@@ -202,7 +202,7 @@
       }
     ],
     "liveScoreFavTeams": [],
-    "liveScoreFavoritesOnly": false,
+    "liveScoreFavoritesOnly": true,
     "liveScorePrefsSynced": true,
     "arenaUsage": {},
     "arenaHistory": [],
