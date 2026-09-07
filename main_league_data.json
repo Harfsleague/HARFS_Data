@@ -45,6 +45,10 @@
     ],
     "ownedItems": [],
     "pinned": null,
+    "liveScoreFavLeagues": [],
+    "liveScoreFavTeams": [],
+    "liveScoreFavoritesOnly": true,
+    "liveScorePrefsSynced": false,
     "arenaUsage": {
       "goal_handicap": 1
     },
@@ -99,6 +103,10 @@
     ],
     "ownedItems": [],
     "pinned": null,
+    "liveScoreFavLeagues": [],
+    "liveScoreFavTeams": [],
+    "liveScoreFavoritesOnly": true,
+    "liveScorePrefsSynced": false,
     "arenaUsage": {
       "arena_mystery": 2,
       "coin_insurance": 1,
@@ -161,6 +169,41 @@
     ],
     "ownedItems": [],
     "pinned": null,
+    "liveScoreFavLeagues": [
+      {
+        "id": 39,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png"
+      },
+      {
+        "id": 290,
+        "name": "Persian Gulf Pro League",
+        "country": "Iran",
+        "logo": "https://media.api-sports.io/football/leagues/290.png"
+      },
+      {
+        "id": 2,
+        "name": "UEFA Champions League",
+        "country": "Europe",
+        "logo": "https://media.api-sports.io/football/leagues/2.png"
+      },
+      {
+        "id": 140,
+        "name": "La Liga",
+        "country": "Spain",
+        "logo": "https://media.api-sports.io/football/leagues/140.png"
+      },
+      {
+        "id": 78,
+        "name": "Bundesliga",
+        "country": "Germany",
+        "logo": "https://media.api-sports.io/football/leagues/78.png"
+      }
+    ],
+    "liveScoreFavTeams": [],
+    "liveScoreFavoritesOnly": true,
+    "liveScorePrefsSynced": true,
     "arenaUsage": {},
     "arenaHistory": [],
     "backfillAppliedAt": "2026-08-21T19:35:23.775Z"
@@ -191,6 +234,10 @@
     ],
     "ownedItems": [],
     "pinned": null,
+    "liveScoreFavLeagues": [],
+    "liveScoreFavTeams": [],
+    "liveScoreFavoritesOnly": true,
+    "liveScorePrefsSynced": false,
     "arenaUsage": {
       "redo_half": 1
     },
