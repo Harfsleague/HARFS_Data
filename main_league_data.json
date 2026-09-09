@@ -197,7 +197,7 @@
         "country": "Spain"
       }
     ],
-    "liveScoreFavoritesOnly": true,
+    "liveScoreFavoritesOnly": false,
     "liveScorePrefsSynced": true,
     "arenaUsage": {},
     "arenaHistory": [],
