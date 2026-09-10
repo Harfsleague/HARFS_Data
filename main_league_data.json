@@ -139,8 +139,13 @@
     "backfillAppliedAt": "2026-08-21T19:35:23.775Z"
   },
   "Bayern": {
-    "coins": 70,
+    "coins": 83,
     "coinLog": [
+      {
+        "ts": "2026-09-10T20:05:13.053Z",
+        "delta": 13,
+        "reason": "Match won + clean sheet"
+      },
       {
         "ts": "2026-09-03T19:06:18.658Z",
         "delta": 1,
@@ -238,8 +243,13 @@
     "backfillAppliedAt": "2026-08-21T19:35:23.775Z"
   },
   "Yellow": {
-    "coins": 5,
+    "coins": 6,
     "coinLog": [
+      {
+        "ts": "2026-09-10T20:05:13.053Z",
+        "delta": 1,
+        "reason": "Match played"
+      },
       {
         "ts": "2026-09-10T19:41:34.888Z",
         "delta": 1,
