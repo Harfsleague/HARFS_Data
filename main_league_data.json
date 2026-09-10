@@ -1,7 +1,12 @@
 {
   "HOSI": {
-    "coins": 57,
+    "coins": 73,
     "coinLog": [
+      {
+        "ts": "2026-09-10T19:24:22.328Z",
+        "delta": 16,
+        "reason": "Match won + clean sheet + big win"
+      },
       {
         "ts": "2026-09-03T18:46:02.108Z",
         "delta": 4,
@@ -63,8 +68,13 @@
     "backfillAppliedAt": "2026-08-21T19:35:23.775Z"
   },
   "Sezar": {
-    "coins": 58,
+    "coins": 68,
     "coinLog": [
+      {
+        "ts": "2026-09-10T19:41:34.888Z",
+        "delta": 10,
+        "reason": "Match won"
+      },
       {
         "ts": "2026-09-03T19:06:18.659Z",
         "delta": 10,
@@ -228,8 +238,18 @@
     "backfillAppliedAt": "2026-08-21T19:35:23.775Z"
   },
   "Yellow": {
-    "coins": 3,
+    "coins": 5,
     "coinLog": [
+      {
+        "ts": "2026-09-10T19:41:34.888Z",
+        "delta": 1,
+        "reason": "Match played"
+      },
+      {
+        "ts": "2026-09-10T19:24:22.328Z",
+        "delta": 1,
+        "reason": "Match played"
+      },
       {
         "ts": "2026-08-27T19:25:35.819Z",
         "delta": 1,
