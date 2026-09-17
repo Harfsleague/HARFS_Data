@@ -1,62 +1,6 @@
 {
   "HOSI": {
-    "coins": 73,
-    "coinLog": [
-      {
-        "ts": "2026-09-10T19:24:22.328Z",
-        "delta": 16,
-        "reason": "Match won + clean sheet + big win"
-      },
-      {
-        "ts": "2026-09-03T18:46:02.108Z",
-        "delta": 4,
-        "reason": "Match drawn"
-      },
-      {
-        "ts": "2026-08-27T19:50:26.319Z",
-        "delta": 10,
-        "reason": "3-win streak bonus"
-      },
-      {
-        "ts": "2026-08-27T19:50:26.317Z",
-        "delta": 10,
-        "reason": "Match won"
-      },
-      {
-        "ts": "2026-08-27T19:33:42.361Z",
-        "delta": -60,
-        "reason": "Bought: Goal Handicap"
-      },
-      {
-        "ts": "2026-08-27T18:54:28.078Z",
-        "delta": 10,
-        "reason": "3-win streak bonus"
-      },
-      {
-        "ts": "2026-08-27T18:54:28.075Z",
-        "delta": 13,
-        "reason": "Match won + big win"
-      },
-      {
-        "ts": "2026-08-26T17:35:23.481Z",
-        "delta": 10,
-        "reason": "Match won"
-      },
-      {
-        "ts": "2026-08-26T17:16:24.040Z",
-        "delta": 10,
-        "reason": "Match won"
-      }
-    ],
-    "ownedItems": [],
     "pinned": null,
-    "liveScoreFavLeagues": [],
-    "liveScoreFavTeams": [],
-    "liveScoreFavoritesOnly": true,
-    "liveScorePrefsSynced": false,
-    "arenaUsage": {
-      "goal_handicap": 1
-    },
     "arenaHistory": [
       {
         "id": "goal_handicap",
@@ -65,63 +9,14 @@
         "ts": "2026-08-27T19:33:42.364Z"
       }
     ],
-    "backfillAppliedAt": "2026-08-21T19:35:23.775Z"
-  },
-  "Sezar": {
-    "coins": 68,
-    "coinLog": [
-      {
-        "ts": "2026-09-10T19:41:34.888Z",
-        "delta": 10,
-        "reason": "Match won"
-      },
-      {
-        "ts": "2026-09-03T19:06:18.659Z",
-        "delta": 10,
-        "reason": "Match won"
-      },
-      {
-        "ts": "2026-08-27T19:50:26.317Z",
-        "delta": 1,
-        "reason": "Match played"
-      },
-      {
-        "ts": "2026-08-27T19:30:10.400Z",
-        "delta": -18,
-        "reason": "Mystery Perk: entry fee"
-      },
-      {
-        "ts": "2026-08-27T19:08:16.416Z",
-        "delta": 16,
-        "reason": "Match won + clean sheet + big win"
-      },
-      {
-        "ts": "2026-08-27T14:04:34.220Z",
-        "delta": -12,
-        "reason": "Mystery Perk: entry fee"
-      },
-      {
-        "ts": "2026-08-26T17:57:51.489Z",
-        "delta": 10,
-        "reason": "Match won"
-      },
-      {
-        "ts": "2026-08-26T17:16:24.040Z",
-        "delta": 1,
-        "reason": "Match played"
-      }
-    ],
-    "ownedItems": [],
-    "pinned": null,
     "liveScoreFavLeagues": [],
     "liveScoreFavTeams": [],
     "liveScoreFavoritesOnly": true,
     "liveScorePrefsSynced": false,
-    "arenaUsage": {
-      "arena_mystery": 2,
-      "coin_insurance": 1,
-      "goal_handicap": 1
-    },
+    "backfillAppliedAt": "2026-08-21T19:35:23.775Z"
+  },
+  "Sezar": {
+    "pinned": null,
     "arenaHistory": [
       {
         "id": "goal_handicap",
@@ -136,54 +31,15 @@
         "ts": "2026-08-27T14:04:34.234Z"
       }
     ],
+    "liveScoreFavLeagues": [],
+    "liveScoreFavTeams": [],
+    "liveScoreFavoritesOnly": true,
+    "liveScorePrefsSynced": false,
     "backfillAppliedAt": "2026-08-21T19:35:23.775Z"
   },
   "Bayern": {
-    "coins": 83,
-    "coinLog": [
-      {
-        "ts": "2026-09-10T20:05:13.053Z",
-        "delta": 13,
-        "reason": "Match won + clean sheet"
-      },
-      {
-        "ts": "2026-09-03T19:06:18.658Z",
-        "delta": 1,
-        "reason": "Match played"
-      },
-      {
-        "ts": "2026-09-03T18:46:02.109Z",
-        "delta": 4,
-        "reason": "Match drawn"
-      },
-      {
-        "ts": "2026-08-31T13:20:19.943Z",
-        "delta": -100,
-        "reason": "Manual admin adjustment"
-      },
-      {
-        "ts": "2026-08-30T17:22:59.130Z",
-        "delta": 100,
-        "reason": "Manual admin adjustment"
-      },
-      {
-        "ts": "2026-08-27T19:25:35.819Z",
-        "delta": 13,
-        "reason": "Match won + clean sheet"
-      },
-      {
-        "ts": "2026-08-26T17:57:51.489Z",
-        "delta": 1,
-        "reason": "Match played"
-      },
-      {
-        "ts": "2026-08-26T17:35:23.481Z",
-        "delta": 1,
-        "reason": "Match played"
-      }
-    ],
-    "ownedItems": [],
     "pinned": null,
+    "arenaHistory": [],
     "liveScoreFavLeagues": [
       {
         "id": 290,
@@ -238,59 +94,16 @@
     ],
     "liveScoreFavoritesOnly": true,
     "liveScorePrefsSynced": true,
-    "arenaUsage": {},
-    "arenaHistory": [],
     "backfillAppliedAt": "2026-08-21T19:35:23.775Z"
   },
   "Yellow": {
-    "coins": 6,
-    "coinLog": [
-      {
-        "ts": "2026-09-10T20:05:13.053Z",
-        "delta": 1,
-        "reason": "Match played"
-      },
-      {
-        "ts": "2026-09-10T19:41:34.888Z",
-        "delta": 1,
-        "reason": "Match played"
-      },
-      {
-        "ts": "2026-09-10T19:24:22.328Z",
-        "delta": 1,
-        "reason": "Match played"
-      },
-      {
-        "ts": "2026-08-27T19:25:35.819Z",
-        "delta": 1,
-        "reason": "Match played"
-      },
-      {
-        "ts": "2026-08-27T19:08:16.416Z",
-        "delta": 1,
-        "reason": "Match played"
-      },
-      {
-        "ts": "2026-08-27T18:54:28.075Z",
-        "delta": 1,
-        "reason": "Match played"
-      },
-      {
-        "ts": "2026-08-27T18:39:24.847Z",
-        "delta": -50,
-        "reason": "Bought: Redo First Half"
-      }
-    ],
-    "ownedItems": [],
     "pinned": null,
-    "liveScoreFavLeagues": [],
-    "liveScoreFavTeams": [],
-    "liveScoreFavoritesOnly": true,
-    "liveScorePrefsSynced": false,
-    "arenaUsage": {
-      "redo_half": 1
-    },
     "arenaHistory": [
+      {
+        "id": "mystery_box",
+        "name": "Mystery Box: Nothing 😬",
+        "ts": "2026-09-17T18:06:44.616Z"
+      },
       {
         "id": "redo_half",
         "name": "Redo First Half",
@@ -298,6 +111,10 @@
         "ts": "2026-08-27T18:39:24.850Z"
       }
     ],
+    "liveScoreFavLeagues": [],
+    "liveScoreFavTeams": [],
+    "liveScoreFavoritesOnly": true,
+    "liveScorePrefsSynced": false,
     "backfillAppliedAt": "2026-08-21T19:35:23.775Z"
   }
 }
