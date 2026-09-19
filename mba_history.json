@@ -10,12 +10,14 @@
         ],
         "wins": {
           "Yellow": 0,
-          "HOSI": 1
+          "HOSI": 3
         },
         "legs": [
+          "HOSI",
+          "HOSI",
           "HOSI"
         ],
-        "winner": null
+        "winner": "HOSI"
       },
       {
         "teams": [
@@ -35,7 +37,7 @@
       }
     ],
     "final": {
-      "winner": null
+      "winner": "HOSI"
     },
     "thirdPlace": {
       "winner": null
