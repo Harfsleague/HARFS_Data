@@ -22,12 +22,11 @@
         ],
         "wins": {
           "Bayern": 1,
-          "Sezar": 2
+          "Sezar": 1
         },
         "legs": [
           "Sezar",
-          "Bayern",
-          "Sezar"
+          "Bayern"
         ],
         "winner": null
       }
