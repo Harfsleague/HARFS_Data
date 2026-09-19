@@ -1,0 +1,53 @@
+{
+  "current": null,
+  "completed": [
+    {
+      "edition": 1,
+      "finishedAt": 1789817413170,
+      "gold": "HOSI",
+      "silver": "Bayern",
+      "bronze": "Sezar",
+      "fourth": "Yellow",
+      "semis": [
+        {
+          "teams": [
+            "Yellow",
+            "HOSI"
+          ],
+          "wins": {
+            "Yellow": 0,
+            "HOSI": 3
+          },
+          "legs": [
+            "HOSI",
+            "HOSI",
+            "HOSI"
+          ],
+          "winner": "HOSI"
+        },
+        {
+          "teams": [
+            "Bayern",
+            "Sezar"
+          ],
+          "wins": {
+            "Bayern": 3,
+            "Sezar": 0
+          },
+          "legs": [
+            "Bayern",
+            "Bayern",
+            "Bayern"
+          ],
+          "winner": "Bayern"
+        }
+      ],
+      "final": {
+        "winner": "HOSI"
+      },
+      "thirdPlace": {
+        "winner": "Sezar"
+      }
+    }
+  ]
+}
