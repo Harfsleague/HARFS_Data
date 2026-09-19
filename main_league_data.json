@@ -75,7 +75,7 @@
     "liveScoreFavTeams": [
       {
         "id": 157,
-        "name": "Bayern München",
+        "name": "Bayern MÃ¼nchen",
         "logo": "https://media.api-sports.io/football/teams/157.png",
         "country": "Germany"
       },
@@ -94,14 +94,15 @@
     ],
     "liveScoreFavoritesOnly": true,
     "liveScorePrefsSynced": true,
-    "backfillAppliedAt": "2026-08-21T19:35:23.775Z"
+    "backfillAppliedAt": "2026-08-21T19:35:23.775Z",
+    "customName": "Rez"
   },
   "Yellow": {
     "pinned": null,
     "arenaHistory": [
       {
         "id": "mystery_box",
-        "name": "Mystery Box: Nothing 😬",
+        "name": "Mystery Box: Nothing ð¬",
         "ts": "2026-09-17T18:06:44.616Z"
       },
       {
