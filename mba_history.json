@@ -22,9 +22,11 @@
         ],
         "wins": {
           "Bayern": 0,
-          "Sezar": 0
+          "Sezar": 1
         },
-        "legs": [],
+        "legs": [
+          "Sezar"
+        ],
         "winner": null
       }
     ],
