@@ -1,0 +1,39 @@
+{
+  "current": {
+    "edition": 1,
+    "createdAt": 1789816869217,
+    "semis": [
+      {
+        "teams": [
+          "Yellow",
+          "HOSI"
+        ],
+        "wins": {
+          "Yellow": 0,
+          "HOSI": 0
+        },
+        "legs": [],
+        "winner": null
+      },
+      {
+        "teams": [
+          "Bayern",
+          "Sezar"
+        ],
+        "wins": {
+          "Bayern": 0,
+          "Sezar": 0
+        },
+        "legs": [],
+        "winner": null
+      }
+    ],
+    "final": {
+      "winner": null
+    },
+    "thirdPlace": {
+      "winner": null
+    }
+  },
+  "completed": []
+}
