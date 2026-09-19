@@ -9,6 +9,14 @@
         "ts": "2026-08-27T19:33:42.364Z"
       }
     ],
+    "mbaChampionLog": [
+      {
+        "edition": 1,
+        "ts": 1789817413170
+      }
+    ],
+    "customName": null,
+    "customLogo": null,
     "liveScoreFavLeagues": [],
     "liveScoreFavTeams": [],
     "liveScoreFavoritesOnly": true,
@@ -31,6 +39,9 @@
         "ts": "2026-08-27T14:04:34.234Z"
       }
     ],
+    "mbaChampionLog": [],
+    "customName": null,
+    "customLogo": null,
     "liveScoreFavLeagues": [],
     "liveScoreFavTeams": [],
     "liveScoreFavoritesOnly": true,
@@ -40,6 +51,9 @@
   "Bayern": {
     "pinned": null,
     "arenaHistory": [],
+    "mbaChampionLog": [],
+    "customName": "Rez",
+    "customLogo": null,
     "liveScoreFavLeagues": [
       {
         "id": 290,
@@ -94,8 +108,7 @@
     ],
     "liveScoreFavoritesOnly": true,
     "liveScorePrefsSynced": true,
-    "backfillAppliedAt": "2026-08-21T19:35:23.775Z",
-    "customName": "Rez"
+    "backfillAppliedAt": "2026-08-21T19:35:23.775Z"
   },
   "Yellow": {
     "pinned": null,
@@ -112,6 +125,9 @@
         "ts": "2026-08-27T18:39:24.850Z"
       }
     ],
+    "mbaChampionLog": [],
+    "customName": null,
+    "customLogo": null,
     "liveScoreFavLeagues": [],
     "liveScoreFavTeams": [],
     "liveScoreFavoritesOnly": true,
