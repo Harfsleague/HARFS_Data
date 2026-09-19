@@ -10,9 +10,11 @@
         ],
         "wins": {
           "Yellow": 0,
-          "HOSI": 0
+          "HOSI": 1
         },
-        "legs": [],
+        "legs": [
+          "HOSI"
+        ],
         "winner": null
       },
       {
