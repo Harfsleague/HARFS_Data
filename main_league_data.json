@@ -12,10 +12,6 @@
     "mbaChampionLog": [],
     "customName": null,
     "customLogo": null,
-    "liveScoreFavLeagues": [],
-    "liveScoreFavTeams": [],
-    "liveScoreFavoritesOnly": true,
-    "liveScorePrefsSynced": false,
     "backfillAppliedAt": "2026-08-21T19:35:23.775Z"
   },
   "Sezar": {
@@ -37,10 +33,6 @@
     "mbaChampionLog": [],
     "customName": null,
     "customLogo": null,
-    "liveScoreFavLeagues": [],
-    "liveScoreFavTeams": [],
-    "liveScoreFavoritesOnly": true,
-    "liveScorePrefsSynced": false,
     "backfillAppliedAt": "2026-08-21T19:35:23.775Z"
   },
   "Bayern": {
@@ -49,60 +41,6 @@
     "mbaChampionLog": [],
     "customName": null,
     "customLogo": null,
-    "liveScoreFavLeagues": [
-      {
-        "id": 290,
-        "name": "Persian Gulf Pro League",
-        "country": "Iran",
-        "logo": "https://media.api-sports.io/football/leagues/290.png"
-      },
-      {
-        "id": 39,
-        "name": "Premier League",
-        "country": "England",
-        "logo": "https://media.api-sports.io/football/leagues/39.png"
-      },
-      {
-        "id": 140,
-        "name": "La Liga",
-        "country": "Spain",
-        "logo": "https://media.api-sports.io/football/leagues/140.png"
-      },
-      {
-        "id": 78,
-        "name": "Bundesliga",
-        "country": "Germany",
-        "logo": "https://media.api-sports.io/football/leagues/78.png"
-      },
-      {
-        "id": 2,
-        "name": "UEFA Champions League",
-        "country": "Europe",
-        "logo": "https://media.api-sports.io/football/leagues/2.png"
-      }
-    ],
-    "liveScoreFavTeams": [
-      {
-        "id": 157,
-        "name": "Bayern MÃÂ¼nchen",
-        "logo": "https://media.api-sports.io/football/teams/157.png",
-        "country": "Germany"
-      },
-      {
-        "id": 529,
-        "name": "Barcelona",
-        "logo": "https://media.api-sports.io/football/teams/529.png",
-        "country": "Spain"
-      },
-      {
-        "id": 541,
-        "name": "Real Madrid",
-        "logo": "https://media.api-sports.io/football/teams/541.png",
-        "country": "Spain"
-      }
-    ],
-    "liveScoreFavoritesOnly": true,
-    "liveScorePrefsSynced": true,
     "backfillAppliedAt": "2026-08-21T19:35:23.775Z"
   },
   "Yellow": {
@@ -123,10 +61,6 @@
     "mbaChampionLog": [],
     "customName": null,
     "customLogo": null,
-    "liveScoreFavLeagues": [],
-    "liveScoreFavTeams": [],
-    "liveScoreFavoritesOnly": true,
-    "liveScorePrefsSynced": false,
     "backfillAppliedAt": "2026-08-21T19:35:23.775Z"
   }
 }
