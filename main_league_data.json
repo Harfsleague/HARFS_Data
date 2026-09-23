@@ -37,7 +37,13 @@
   },
   "Bayern": {
     "pinned": null,
-    "arenaHistory": [],
+    "arenaHistory": [
+      {
+        "id": "mystery_box",
+        "name": "Mystery Box: Won \"Redo First Half\"",
+        "ts": "2026-09-23T11:11:12.991Z"
+      }
+    ],
     "mbaChampionLog": [],
     "customName": null,
     "customLogo": null,
