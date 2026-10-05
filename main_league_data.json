@@ -89,5 +89,12 @@
     "arenaHistory": [],
     "customName": "Khale Fati",
     "customShort": "🪷"
+  },
+  "President": {
+    "name": "President",
+    "pinned": null,
+    "arenaHistory": [],
+    "customName": "Maman Bozorg",
+    "customShort": null
   }
 }
