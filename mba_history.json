@@ -95,7 +95,16 @@
       }
     ],
     "final": {
-      "winner": null
+      "winner": "Sezar",
+      "scores": {
+        "HOSI": 3,
+        "Sezar": 4
+      },
+      "teams": [
+        "HOSI",
+        "Sezar"
+      ],
+      "ts": 1791492063930
     },
     "thirdPlace": {
       "winner": null
