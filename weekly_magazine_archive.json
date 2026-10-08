@@ -1,5 +1,515 @@
 [
   {
+    "issueNumber": 4,
+    "issueDate": "2026-10-08",
+    "generatedAt": "2026-10-08T21:06:49.376Z",
+    "coverImage": "mag1.png",
+    "standingsTable": [
+      {
+        "name": "HOSI",
+        "P": 0,
+        "W": 0,
+        "D": 0,
+        "L": 0,
+        "GF": 0,
+        "GA": 0,
+        "Pts": 0
+      },
+      {
+        "name": "Sezar",
+        "P": 0,
+        "W": 0,
+        "D": 0,
+        "L": 0,
+        "GF": 0,
+        "GA": 0,
+        "Pts": 0
+      },
+      {
+        "name": "Bayern",
+        "P": 0,
+        "W": 0,
+        "D": 0,
+        "L": 0,
+        "GF": 0,
+        "GA": 0,
+        "Pts": 0
+      },
+      {
+        "name": "Yellow",
+        "P": 0,
+        "W": 0,
+        "D": 0,
+        "L": 0,
+        "GF": 0,
+        "GA": 0,
+        "Pts": 0
+      }
+    ],
+    "seasonContext": {
+      "status": "new_season_not_started",
+      "tableRepresents": "live_season",
+      "endedSeasonId": null,
+      "newSeasonMatchesPlayed": 0
+    },
+    "justEndedSeason": null,
+    "weekType": "cup_only",
+    "leagueWeek": {
+      "matchesThisWeek": 0,
+      "isActive": false
+    },
+    "cup": {
+      "hasActivity": true,
+      "edition": 1,
+      "status": "in_progress",
+      "startedThisWeek": false,
+      "finishedThisWeek": false,
+      "championCrowned": true,
+      "medals": {
+        "gold": "Sezar",
+        "silver": "HOSI",
+        "bronze": null,
+        "fourth": null
+      },
+      "bracket": {
+        "semis": [
+          {
+            "semi": 1,
+            "teams": [
+              "Yellow",
+              "HOSI"
+            ],
+            "winsNeeded": 3,
+            "wins": {
+              "Yellow": 0,
+              "HOSI": 3
+            },
+            "winner": "HOSI",
+            "legs": [
+              {
+                "game": 1,
+                "winner": "HOSI",
+                "score": "1-3",
+                "playedThisWeek": true
+              },
+              {
+                "game": 2,
+                "winner": "HOSI",
+                "score": "1-2",
+                "playedThisWeek": true
+              },
+              {
+                "game": 3,
+                "winner": "HOSI",
+                "score": "0-2",
+                "playedThisWeek": true
+              }
+            ]
+          },
+          {
+            "semi": 2,
+            "teams": [
+              "Bayern",
+              "Sezar"
+            ],
+            "winsNeeded": 3,
+            "wins": {
+              "Bayern": 2,
+              "Sezar": 3
+            },
+            "winner": "Sezar",
+            "legs": [
+              {
+                "game": 1,
+                "winner": "Bayern",
+                "score": "3-2",
+                "playedThisWeek": true
+              },
+              {
+                "game": 2,
+                "winner": "Sezar",
+                "score": "2-5",
+                "playedThisWeek": true
+              },
+              {
+                "game": 3,
+                "winner": "Sezar",
+                "score": "3-4",
+                "playedThisWeek": true
+              },
+              {
+                "game": 4,
+                "winner": "Bayern",
+                "score": "3-0",
+                "playedThisWeek": true
+              },
+              {
+                "game": 5,
+                "winner": "Sezar",
+                "score": "1-2",
+                "playedThisWeek": true
+              }
+            ]
+          }
+        ],
+        "final": {
+          "played": true,
+          "teams": [
+            "HOSI",
+            "Sezar"
+          ],
+          "winner": "Sezar",
+          "score": "3-4",
+          "playedThisWeek": true
+        },
+        "thirdPlace": {
+          "played": false,
+          "teams": [
+            "Yellow",
+            "Bayern"
+          ]
+        }
+      },
+      "pending": [
+        "بازی رده‌بندی (مقام سوم) هنوز برگزار نشده"
+      ],
+      "gamesThisWeek": [
+        {
+          "stage": "نیمه‌نهایی 1",
+          "game": 1,
+          "teams": [
+            "Yellow",
+            "HOSI"
+          ],
+          "score": "1-3",
+          "winner": "HOSI"
+        },
+        {
+          "stage": "نیمه‌نهایی 2",
+          "game": 1,
+          "teams": [
+            "Bayern",
+            "Sezar"
+          ],
+          "score": "3-2",
+          "winner": "Bayern"
+        },
+        {
+          "stage": "نیمه‌نهایی 1",
+          "game": 2,
+          "teams": [
+            "Yellow",
+            "HOSI"
+          ],
+          "score": "1-2",
+          "winner": "HOSI"
+        },
+        {
+          "stage": "نیمه‌نهایی 2",
+          "game": 2,
+          "teams": [
+            "Bayern",
+            "Sezar"
+          ],
+          "score": "2-5",
+          "winner": "Sezar"
+        },
+        {
+          "stage": "نیمه‌نهایی 1",
+          "game": 3,
+          "teams": [
+            "Yellow",
+            "HOSI"
+          ],
+          "score": "0-2",
+          "winner": "HOSI"
+        },
+        {
+          "stage": "نیمه‌نهایی 2",
+          "game": 3,
+          "teams": [
+            "Bayern",
+            "Sezar"
+          ],
+          "score": "3-4",
+          "winner": "Sezar"
+        },
+        {
+          "stage": "نیمه‌نهایی 2",
+          "game": 4,
+          "teams": [
+            "Bayern",
+            "Sezar"
+          ],
+          "score": "3-0",
+          "winner": "Bayern"
+        },
+        {
+          "stage": "نیمه‌نهایی 2",
+          "game": 5,
+          "teams": [
+            "Bayern",
+            "Sezar"
+          ],
+          "score": "1-2",
+          "winner": "Sezar"
+        },
+        {
+          "stage": "فینال",
+          "game": 1,
+          "teams": [
+            "HOSI",
+            "Sezar"
+          ],
+          "score": "3-4",
+          "winner": "Sezar"
+        }
+      ],
+      "recordsThisWeek": {
+        "highestScoring": {
+          "stage": "نیمه‌نهایی 2",
+          "teams": [
+            "Bayern",
+            "Sezar"
+          ],
+          "score": "2-5",
+          "total": 7
+        },
+        "biggestMargin": {
+          "stage": "نیمه‌نهایی 2",
+          "teams": [
+            "Bayern",
+            "Sezar"
+          ],
+          "score": "2-5",
+          "margin": 3
+        }
+      },
+      "recordsWholeEdition": {
+        "highestScoring": {
+          "stage": "نیمه‌نهایی 2",
+          "teams": [
+            "Bayern",
+            "Sezar"
+          ],
+          "score": "2-5",
+          "total": 7
+        },
+        "biggestMargin": {
+          "stage": "نیمه‌نهایی 2",
+          "teams": [
+            "Bayern",
+            "Sezar"
+          ],
+          "score": "2-5",
+          "margin": 3
+        }
+      },
+      "teamCupStats": [
+        {
+          "team": "HOSI",
+          "played": 4,
+          "W": 3,
+          "L": 1,
+          "GF": 10,
+          "GA": 6,
+          "GD": 4
+        },
+        {
+          "team": "Sezar",
+          "played": 6,
+          "W": 4,
+          "L": 2,
+          "GF": 17,
+          "GA": 15,
+          "GD": 2
+        },
+        {
+          "team": "Bayern",
+          "played": 5,
+          "W": 2,
+          "L": 3,
+          "GF": 12,
+          "GA": 13,
+          "GD": -1
+        },
+        {
+          "team": "Yellow",
+          "played": 3,
+          "W": 0,
+          "L": 3,
+          "GF": 2,
+          "GA": 7,
+          "GD": -5
+        }
+      ],
+      "pastEditions": []
+    },
+    "recentMatches": [],
+    "formGuide": [
+      {
+        "team": "HOSI",
+        "form": [],
+        "streakType": null,
+        "streakCount": 0
+      },
+      {
+        "team": "Sezar",
+        "form": [],
+        "streakType": null,
+        "streakCount": 0
+      },
+      {
+        "team": "Bayern",
+        "form": [],
+        "streakType": null,
+        "streakCount": 0
+      },
+      {
+        "team": "Yellow",
+        "form": [],
+        "streakType": null,
+        "streakCount": 0
+      }
+    ],
+    "weeklyRecords": null,
+    "titleRace": {
+      "leader": "HOSI",
+      "leaderPts": 0,
+      "gaps": [
+        {
+          "team": "HOSI",
+          "pts": 0,
+          "gapToLeader": 0
+        },
+        {
+          "team": "Sezar",
+          "pts": 0,
+          "gapToLeader": 0
+        },
+        {
+          "team": "Bayern",
+          "pts": 0,
+          "gapToLeader": 0
+        },
+        {
+          "team": "Yellow",
+          "pts": 0,
+          "gapToLeader": 0
+        }
+      ]
+    },
+    "allTimeStats": [
+      {
+        "team": "HOSI",
+        "seasonsPlayed": 7,
+        "leagueTitles": 4,
+        "mbaMedals": 0,
+        "P": 68,
+        "W": 39,
+        "D": 14,
+        "L": 15,
+        "GF": 168,
+        "GA": 116,
+        "GD": 52,
+        "winRate": 57.4
+      },
+      {
+        "team": "Sezar",
+        "seasonsPlayed": 7,
+        "leagueTitles": 3,
+        "mbaMedals": 0,
+        "P": 68,
+        "W": 35,
+        "D": 16,
+        "L": 17,
+        "GF": 190,
+        "GA": 149,
+        "GD": 41,
+        "winRate": 51.5
+      },
+      {
+        "team": "Bayern",
+        "seasonsPlayed": 7,
+        "leagueTitles": 0,
+        "mbaMedals": 0,
+        "P": 67,
+        "W": 14,
+        "D": 11,
+        "L": 42,
+        "GF": 96,
+        "GA": 158,
+        "GD": -62,
+        "winRate": 20.9
+      },
+      {
+        "team": "Yellow",
+        "seasonsPlayed": 7,
+        "leagueTitles": 0,
+        "mbaMedals": 0,
+        "P": 39,
+        "W": 9,
+        "D": 7,
+        "L": 23,
+        "GF": 52,
+        "GA": 83,
+        "GD": -31,
+        "winRate": 23.1
+      }
+    ],
+    "issueTitle": "تاج‌گذاری Sezar در درام بی‌پایان CUP؛ زردها همچنان در سودای اولین لبخند!",
+    "coverSubtitle": "بررسی جامع اولین دوره هیجان‌انگیز CUP: شوالیه‌های Sezar چطور از لبه پرتگاه به طلا رسیدند؟",
+    "standingsCommentary": "با توجه به اینکه فصل جدید هنوز سوت آغازش نواخته نشده، جدول رده‌بندی لیگ HARFS در سکوت مطلق به سر می‌برد. همه تیم‌ها با صفر امتیاز در یک صف ایستاده‌اند؛ عدالتی شاعرانه که البته با شروع بازی‌ها دوام چندانی نخواهد داشت! تمرکز کامل این هفته روی نبردهای خونین CUP بود.",
+    "matchReport": "چرخ دنده‌های لیگ HARFS این هفته استراحت کردند و هیچ مسابقه‌ای در قالب لیگ برگزار نشد تا تمام انرژی بازیکنان صرف مسابقات حذفی شود.",
+    "cupReport": "اولین دوره مسابقات CUP با سناریویی بنو‌شته‌شده توسط استادان درام به نقطه اوج خود رسید. در نیمه‌نهایی اول، HOSI کار سختی مقابل Yellow نداشت و با سه پیروزی متوالی با نتایج ۳-۱، ۲-۱ و ۲-۰ خیلی سریع بلیت فینال را رزرو کرد. اما در نیمه‌نهایی دوم، میان Bayern و Sezar جنگی تمام‌عیار در ۵ پرده رخ داد؛ باواریایی‌ها ابتدا بازی اول را ۳-۲ بردند، اما Sezar با پیروزی‌های ۵-۲ و ۴-۳ ورق را برگرداند. Bayern تسلیم نشد و با پیروزی قاطع ۳-۰ در بازی چهارم کار را به بازی پنجم کشاند، جایی که Sezar با برتری ناپلئونی ۲-۱ صعود کرد. در فینال بزرگ، تکرار ال‌کلاسیکوی مکرر بین HOSI و Sezar با نتیجه ۴-۳ به سود Sezar به پایان رسید تا مدال طلا به ویترین افتخارات آن‌ها اضافه شود و HOSI به مدال نقره بسنده کند. بازی رده‌بندی بین Yellow و Bayern هنوز برگزار نشده است.",
+    "playerSpotlights": [
+      {
+        "team": "Sezar",
+        "headline": "پادشاه کامبک‌ها و مرد روزهای سخت",
+        "note": "تیم Sezar نشان داد که حتی اگر در یک قدمی حذف باشد، باز هم راه پیروزی را بلد است. پیروزی در نبرد ۵ بازیه مقابل Bayern و سپس فتح فینال مقابل رقیب دیرینه یعنی HOSI، عیار قهرمانی آن‌ها را ثابت کرد."
+      },
+      {
+        "team": "HOSI",
+        "headline": "فرار بزرگ از زردها و غفلت در گام آخر",
+        "note": "آن‌ها با نمایش بی‌نقص در نیمه‌نهایی و حذف راحت Yellow، با اعتمادبه‌نفس کامل پا به فینال گذاشتند اما در یک ماراتن نفس‌گیر ۴-۳ تسلیم جادوی Sezar شدند تا به مدال نقره رضایت دهند."
+      },
+      {
+        "team": "Yellow",
+        "headline": "دفاع سست و هجومی که زود خاموش شد",
+        "note": "Yellow در سه بازی نیمه‌نهایی خود مقابل HOSI تنها ۲ گل به ثمر رساند و با پذیرش ۷ گل، خیلی زود از رسیدن به فینال بازماند و حالا باید برای برنز بجنگد."
+      }
+    ],
+    "recommendations": [
+      "به Sezar: حالا که طعم طلای CUP را چشیده‌اید، مغرور نشوید؛ فصل جدید لیگ در راه است و رقبا چنگ و دندان تیز کرده‌اند.",
+      "به HOSI: نقره جام حذفی هم ارزشمند است، اما برای تیمی با سابقه طلایی شما، این یک عقب‌نشینی به حساب می‌آید. روی ساختار دفاعی خود در دقایق پایانی کار کنید.",
+      "به Bayern: نمایش شجاعانه‌ای در نیمه‌نهایی داشتید. همین روحیه جنگندگی را برای بازی رده‌بندی حفظ کنید تا دست خالی نمانید.",
+      "به Yellow: تمرین شوت‌زنی و چارچوب‌شناسی را در دستور کار قرار دهید؛ ۲ گل در ۳ بازی برای بقا در مسابقات حذفی اصلاً کافی نیست."
+    ],
+    "titleRaceCommentary": "در حال حاضر لیگ هنوز شروع نشده و فاصله امتیازی همه تیم‌ها با صدرنشین صفر است. با این حال، با توجه به فرم عالی Sezar و HOSI در مسابقات حذفی، از همین حالا مشخص است که نبرد قهرمانی فصل جدید باز هم کشمکش مستقیمی بین این دو غول سنتی خواهد بود.",
+    "recordsAndOddities": "پرگل‌ترین دیدار این هفته و کل دوره CUP، در بازی دوم نیمه‌نهایی بین Bayern و Sezar ثبت شد که با برتری ۵ بر ۲ سزار و رد و بدل شدن ۷ گل همراه بود. همین دیدار با اختلاف ۳ گل، عنوان قاطعانه‌ترین پیروزی هفته را نیز به خود اختصاص داد.",
+    "funnyClosing": "مسابقات CUP به ایستگاه آخر رسید و طلا به Sezar رسید، اما نبرد برای مدال برنز همچنان بین Bayern و Yellow ادامه دارد. امیدواریم این مدال بی‌رنگ حداقل انگیزه کافی را برای دویدن به بازیکنان دو تیم بدهد!",
+    "interview": {
+      "team": "Yellow",
+      "intervieweeRole": "سرمربی",
+      "intervieweeName": "هوشنگ زردپور",
+      "headline": "ما بازی را نباختیم، فقط زمان مسابقه برای گل‌زنی ما کافی نبود!",
+      "qAndA": [
+        {
+          "question": "جناب زردپور، سه باخت متوالی مقابل HOSI و حذف آسان از راهیابی به فینال؛ چه اتفاقی برای Yellow افتاد؟",
+          "answer": "به نظرم رسانه‌ها بی‌انصافی می‌کنند. ما در بازی سوم اصلاً گل نخوردیم... خب یعنی دو تا خوردیم ولی نیمه اول را عالی دفاع کردیم! HOSI شانس آورد که بازی‌ها وقت اضافه نداشت، وگرنه در دقیقه ۱۲۰ حتماً کامبک می‌زدیم."
+        },
+        {
+          "question": "اما آمار نشان می‌دهد در ۳ بازی فقط ۲ گل زدید و ۷ گل دریافت کردید. این نگران‌کننده نیست؟",
+          "answer": "این آمارها را کامپیوترها می‌سازند تا روحیه ما را خراب کنند! مهاجمان ما به جای تور دروازه، به زیبایی تیرک‌ها علاقه دارند. ما داریم روی بعد هنری ضربات کار می‌کنیم، گل زدن خیلی کلیشه‌ای شده است!"
+        },
+        {
+          "question": "حالا باید در بازی رده‌بندی برای برنز به مصاف Bayern بروید. برنامه‌تان چیست؟",
+          "answer": "بایرن تیم خوبی است ولی آن‌ها هم مثل ما از مدال‌های براق می‌ترسند! برنامه ما این است که با سیستم فوق‌تدافعی بازی کنیم تا بازی را به پنالتی بکشانیم. اگر هم نشد، حداقل سعی می‌کنیم لباس‌هایمان را طوری انتخاب کنیم که چشمان دروازه‌بان حریف خیره شود!"
+        }
+      ]
+    }
+  },
+  {
     "issueNumber": 3,
     "issueDate": "2026-10-01",
     "generatedAt": "2026-10-01T21:20:40.871Z",
