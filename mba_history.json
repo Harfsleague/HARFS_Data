@@ -47,7 +47,7 @@
         ],
         "wins": {
           "Bayern": 1,
-          "Sezar": 1
+          "Sezar": 2
         },
         "legs": [
           {
@@ -65,6 +65,14 @@
               "Sezar": 5
             },
             "ts": 1791486977384
+          },
+          {
+            "winner": "Sezar",
+            "scores": {
+              "Bayern": 3,
+              "Sezar": 4
+            },
+            "ts": 1791489055719
           }
         ],
         "winner": null
