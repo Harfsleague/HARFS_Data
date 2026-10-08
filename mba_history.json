@@ -10,7 +10,7 @@
         ],
         "wins": {
           "Yellow": 0,
-          "HOSI": 1
+          "HOSI": 2
         },
         "legs": [
           {
@@ -20,6 +20,14 @@
               "HOSI": 3
             },
             "ts": 1791484115369
+          },
+          {
+            "winner": "HOSI",
+            "scores": {
+              "Yellow": 1,
+              "HOSI": 2
+            },
+            "ts": 1791485944289
           }
         ],
         "winner": null
