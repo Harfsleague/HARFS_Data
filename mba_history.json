@@ -1,114 +1,130 @@
 {
-  "current": {
-    "edition": 1,
-    "createdAt": 1790018626228,
-    "semis": [
-      {
-        "teams": [
-          "Yellow",
-          "HOSI"
-        ],
-        "wins": {
-          "Yellow": 0,
-          "HOSI": 3
+  "current": null,
+  "completed": [
+    {
+      "edition": 1,
+      "createdAt": 1790018626228,
+      "finishedAt": 1791735687257,
+      "gold": "Sezar",
+      "silver": "HOSI",
+      "bronze": "Yellow",
+      "fourth": "Bayern",
+      "semis": [
+        {
+          "teams": [
+            "Yellow",
+            "HOSI"
+          ],
+          "wins": {
+            "Yellow": 0,
+            "HOSI": 3
+          },
+          "legs": [
+            {
+              "winner": "HOSI",
+              "scores": {
+                "Yellow": 1,
+                "HOSI": 3
+              },
+              "ts": 1791484115369
+            },
+            {
+              "winner": "HOSI",
+              "scores": {
+                "Yellow": 1,
+                "HOSI": 2
+              },
+              "ts": 1791485944289
+            },
+            {
+              "winner": "HOSI",
+              "scores": {
+                "Yellow": 0,
+                "HOSI": 2
+              },
+              "ts": 1791487968202
+            }
+          ],
+          "winner": "HOSI"
         },
-        "legs": [
-          {
-            "winner": "HOSI",
-            "scores": {
-              "Yellow": 1,
-              "HOSI": 3
-            },
-            "ts": 1791484115369
+        {
+          "teams": [
+            "Bayern",
+            "Sezar"
+          ],
+          "wins": {
+            "Bayern": 2,
+            "Sezar": 3
           },
-          {
-            "winner": "HOSI",
-            "scores": {
-              "Yellow": 1,
-              "HOSI": 2
+          "legs": [
+            {
+              "winner": "Bayern",
+              "scores": {
+                "Bayern": 3,
+                "Sezar": 2
+              },
+              "ts": 1791485425831
             },
-            "ts": 1791485944289
-          },
-          {
-            "winner": "HOSI",
-            "scores": {
-              "Yellow": 0,
-              "HOSI": 2
+            {
+              "winner": "Sezar",
+              "scores": {
+                "Bayern": 2,
+                "Sezar": 5
+              },
+              "ts": 1791486977384
             },
-            "ts": 1791487968202
-          }
-        ],
-        "winner": "HOSI"
-      },
-      {
+            {
+              "winner": "Sezar",
+              "scores": {
+                "Bayern": 3,
+                "Sezar": 4
+              },
+              "ts": 1791489055719
+            },
+            {
+              "winner": "Bayern",
+              "scores": {
+                "Bayern": 3,
+                "Sezar": 0
+              },
+              "ts": 1791490004843
+            },
+            {
+              "winner": "Sezar",
+              "scores": {
+                "Bayern": 1,
+                "Sezar": 2
+              },
+              "ts": 1791491020719
+            }
+          ],
+          "winner": "Sezar"
+        }
+      ],
+      "final": {
+        "winner": "Sezar",
+        "scores": {
+          "HOSI": 3,
+          "Sezar": 4
+        },
         "teams": [
-          "Bayern",
+          "HOSI",
           "Sezar"
         ],
-        "wins": {
-          "Bayern": 2,
-          "Sezar": 3
-        },
-        "legs": [
-          {
-            "winner": "Bayern",
-            "scores": {
-              "Bayern": 3,
-              "Sezar": 2
-            },
-            "ts": 1791485425831
-          },
-          {
-            "winner": "Sezar",
-            "scores": {
-              "Bayern": 2,
-              "Sezar": 5
-            },
-            "ts": 1791486977384
-          },
-          {
-            "winner": "Sezar",
-            "scores": {
-              "Bayern": 3,
-              "Sezar": 4
-            },
-            "ts": 1791489055719
-          },
-          {
-            "winner": "Bayern",
-            "scores": {
-              "Bayern": 3,
-              "Sezar": 0
-            },
-            "ts": 1791490004843
-          },
-          {
-            "winner": "Sezar",
-            "scores": {
-              "Bayern": 1,
-              "Sezar": 2
-            },
-            "ts": 1791491020719
-          }
-        ],
-        "winner": "Sezar"
-      }
-    ],
-    "final": {
-      "winner": "Sezar",
-      "scores": {
-        "HOSI": 3,
-        "Sezar": 4
+        "ts": 1791492063930
       },
-      "teams": [
-        "HOSI",
-        "Sezar"
-      ],
-      "ts": 1791492063930
-    },
-    "thirdPlace": {
-      "winner": null
+      "thirdPlace": {
+        "winner": "Yellow",
+        "scores": {
+          "Yellow": 1,
+          "Bayern": 0
+        },
+        "teams": [
+          "Yellow",
+          "Bayern"
+        ],
+        "ts": 1791735687257
+      }
     }
-  },
-  "completed": []
+  ]
 }
