@@ -5,7 +5,7 @@
       "id": "no",
       "name": "No",
       "desc": "Cancels the card your opponent plays in this game.",
-      "img": 1792005799885,
+      "img": null,
       "draw": false,
       "system": true
     },
@@ -14,6 +14,13 @@
       "name": "Must Score 3>=",
       "desc": "",
       "img": 1792005673719,
+      "draw": true
+    },
+    {
+      "id": "cmyo8p9rl",
+      "name": "First to 3",
+      "desc": "",
+      "img": 1792005989423,
       "draw": true
     }
   ],
