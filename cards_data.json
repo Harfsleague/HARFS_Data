@@ -42,16 +42,6 @@
         "uid": "nhfg3qb8",
         "card": "no",
         "active": false
-      },
-      {
-        "uid": "12gqobuo",
-        "card": "c7cq3nw3j",
-        "active": false
-      },
-      {
-        "uid": "0vof06nb",
-        "card": "crb4yy8dl",
-        "active": false
       }
     ],
     "Sezar": [
@@ -63,16 +53,6 @@
       {
         "uid": "j9nkz2qu",
         "card": "no",
-        "active": false
-      },
-      {
-        "uid": "qparkur8",
-        "card": "crb4yy8dl",
-        "active": false
-      },
-      {
-        "uid": "cmxm2207",
-        "card": "c7cq3nw3j",
         "active": false
       }
     ],
@@ -86,16 +66,6 @@
         "uid": "s1d582nf",
         "card": "no",
         "active": false
-      },
-      {
-        "uid": "leh5nv19",
-        "card": "c7cq3nw3j",
-        "active": false
-      },
-      {
-        "uid": "rvir127v",
-        "card": "crb4yy8dl",
-        "active": false
       }
     ],
     "Yellow": [
@@ -107,11 +77,6 @@
       {
         "uid": "i0e66cq5",
         "card": "no",
-        "active": false
-      },
-      {
-        "uid": "lxws5gsc",
-        "card": "c7cq3nw3j",
         "active": false
       }
     ]
