@@ -47,6 +47,11 @@
         "uid": "12gqobuo",
         "card": "c7cq3nw3j",
         "active": false
+      },
+      {
+        "uid": "0vof06nb",
+        "card": "crb4yy8dl",
+        "active": false
       }
     ],
     "Sezar": [
@@ -63,11 +68,6 @@
       {
         "uid": "qparkur8",
         "card": "crb4yy8dl",
-        "active": false
-      },
-      {
-        "uid": "cmxm2207",
-        "card": "c7cq3nw3j",
         "active": false
       }
     ],
