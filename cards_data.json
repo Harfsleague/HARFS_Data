@@ -44,13 +44,13 @@
         "active": false
       },
       {
-        "uid": "5sabag0r",
+        "uid": "12gqobuo",
         "card": "c7cq3nw3j",
         "active": false
       },
       {
-        "uid": "2sfi22lu",
-        "card": "c7cq3nw3j",
+        "uid": "0vof06nb",
+        "card": "crb4yy8dl",
         "active": false
       }
     ],
@@ -66,12 +66,12 @@
         "active": false
       },
       {
-        "uid": "6sn2zc6f",
-        "card": "c7cq3nw3j",
+        "uid": "qparkur8",
+        "card": "crb4yy8dl",
         "active": false
       },
       {
-        "uid": "ulx6cjuh",
+        "uid": "cmxm2207",
         "card": "c7cq3nw3j",
         "active": false
       }
@@ -88,12 +88,12 @@
         "active": false
       },
       {
-        "uid": "zjiacx0b",
-        "card": "crb4yy8dl",
+        "uid": "leh5nv19",
+        "card": "c7cq3nw3j",
         "active": false
       },
       {
-        "uid": "bqm23sqk",
+        "uid": "rvir127v",
         "card": "crb4yy8dl",
         "active": false
       }
@@ -110,13 +110,13 @@
         "active": false
       },
       {
-        "uid": "xwvx8fnn",
-        "card": "crb4yy8dl",
+        "uid": "lxws5gsc",
+        "card": "c7cq3nw3j",
         "active": false
       },
       {
-        "uid": "3fofh9qy",
-        "card": "crb4yy8dl",
+        "uid": "yua5bcyf",
+        "card": "c7zq1z8u3",
         "active": false
       }
     ]
@@ -128,7 +128,7 @@
   },
   "log": [
     {
-      "ts": 1792006848899,
+      "ts": 1792006854145,
       "type": "deal",
       "season": 8,
       "round": 1,
