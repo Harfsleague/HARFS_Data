@@ -13,55 +13,63 @@
   "hands": {
     "HOSI": [
       {
-        "uid": "vf1omqiy",
+        "uid": "as9cvxh9",
         "card": "no",
         "active": false
       },
       {
-        "uid": "nhfg3qb8",
+        "uid": "h5mt8lh7",
         "card": "no",
         "active": false
       }
     ],
     "Sezar": [
       {
-        "uid": "qe016f9c",
+        "uid": "h1ff7wte",
         "card": "no",
         "active": false
       },
       {
-        "uid": "j9nkz2qu",
+        "uid": "m5b8klj1",
         "card": "no",
         "active": false
       }
     ],
     "Bayern": [
       {
-        "uid": "49nxt8q5",
+        "uid": "wsswgx8e",
         "card": "no",
         "active": false
       },
       {
-        "uid": "s1d582nf",
+        "uid": "wiioyr2s",
         "card": "no",
         "active": false
       }
     ],
     "Yellow": [
       {
-        "uid": "ou76rfip",
+        "uid": "7pilarbv",
         "card": "no",
         "active": false
       },
       {
-        "uid": "i0e66cq5",
+        "uid": "o5zi1y8x",
         "card": "no",
         "active": false
       }
     ]
   },
-  "dealt": {},
+  "dealt": {
+    "8": []
+  },
   "log": [
+    {
+      "ts": 1792005332569,
+      "type": "season",
+      "season": 8,
+      "text": "Season 8: each team starts with 2 “No” cards"
+    },
     {
       "ts": 1792005319008,
       "type": "reset",
