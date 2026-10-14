@@ -34,62 +34,105 @@
   "hands": {
     "HOSI": [
       {
-        "uid": "g9xyqgmb",
+        "uid": "vf1omqiy",
         "card": "no",
         "active": false
       },
       {
-        "uid": "crtsy6xc",
+        "uid": "nhfg3qb8",
         "card": "no",
+        "active": false
+      },
+      {
+        "uid": "5sabag0r",
+        "card": "c7cq3nw3j",
+        "active": false
+      },
+      {
+        "uid": "2sfi22lu",
+        "card": "c7cq3nw3j",
         "active": false
       }
     ],
     "Sezar": [
       {
-        "uid": "5z1wjuio",
+        "uid": "qe016f9c",
         "card": "no",
         "active": false
       },
       {
-        "uid": "lcdg4tz6",
+        "uid": "j9nkz2qu",
         "card": "no",
+        "active": false
+      },
+      {
+        "uid": "6sn2zc6f",
+        "card": "c7cq3nw3j",
+        "active": false
+      },
+      {
+        "uid": "ulx6cjuh",
+        "card": "c7cq3nw3j",
         "active": false
       }
     ],
     "Bayern": [
       {
-        "uid": "dmwcqekv",
+        "uid": "49nxt8q5",
         "card": "no",
         "active": false
       },
       {
-        "uid": "g9ro4z29",
+        "uid": "s1d582nf",
         "card": "no",
+        "active": false
+      },
+      {
+        "uid": "zjiacx0b",
+        "card": "crb4yy8dl",
+        "active": false
+      },
+      {
+        "uid": "bqm23sqk",
+        "card": "crb4yy8dl",
         "active": false
       }
     ],
     "Yellow": [
       {
-        "uid": "3oa5rncy",
+        "uid": "ou76rfip",
         "card": "no",
         "active": false
       },
       {
-        "uid": "cq6d64az",
+        "uid": "i0e66cq5",
         "card": "no",
+        "active": false
+      },
+      {
+        "uid": "xwvx8fnn",
+        "card": "crb4yy8dl",
+        "active": false
+      },
+      {
+        "uid": "3fofh9qy",
+        "card": "crb4yy8dl",
         "active": false
       }
     ]
   },
   "dealt": {
-    "8": []
+    "8": [
+      1
+    ]
   },
   "log": [
     {
-      "ts": 1792006749400,
-      "type": "season",
+      "ts": 1792006848899,
+      "type": "deal",
       "season": 8,
-      "text": "Season 8: each team starts with 2 “No” cards"
+      "round": 1,
+      "text": "Matchweek 1: 2 random cards for every team"
     },
     {
       "ts": 1792005319008,
