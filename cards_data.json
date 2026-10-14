@@ -1,5 +1,5 @@
 {
-  "v": 1,
+  "v": 2,
   "deck": [
     {
       "id": "no",
@@ -99,5 +99,12 @@
       "type": "reset",
       "text": "All hands reset"
     }
-  ]
+  ],
+  "deals": {
+    "8:1792006744785": [
+      "start",
+      "w0"
+    ]
+  },
+  "used": {}
 }
