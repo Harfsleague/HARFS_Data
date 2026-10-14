@@ -5,7 +5,7 @@
       "id": "no",
       "name": "No",
       "desc": "Cancels the card your opponent plays in this game.",
-      "img": null,
+      "img": 1792005799885,
       "draw": false,
       "system": true
     },
