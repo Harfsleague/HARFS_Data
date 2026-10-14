@@ -55,49 +55,89 @@
   "hands": {
     "HOSI": [
       {
-        "uid": "vf1omqiy",
+        "uid": "29b9561d",
         "card": "no",
         "active": false
       },
       {
-        "uid": "nhfg3qb8",
+        "uid": "26c44bc6",
         "card": "no",
+        "active": false
+      },
+      {
+        "uid": "4f9f82c3",
+        "card": "crb4yy8dl",
+        "active": false
+      },
+      {
+        "uid": "fb5201f9",
+        "card": "c4catfbtq",
         "active": false
       }
     ],
     "Sezar": [
       {
-        "uid": "qe016f9c",
+        "uid": "d5cfa6ad",
         "card": "no",
         "active": false
       },
       {
-        "uid": "j9nkz2qu",
+        "uid": "e33818ab",
         "card": "no",
+        "active": false
+      },
+      {
+        "uid": "86b61b31",
+        "card": "cie91q8ny",
+        "active": false
+      },
+      {
+        "uid": "1df6ad03",
+        "card": "c7cq3nw3j",
         "active": false
       }
     ],
     "Bayern": [
       {
-        "uid": "49nxt8q5",
+        "uid": "fc80afd0",
         "card": "no",
         "active": false
       },
       {
-        "uid": "s1d582nf",
+        "uid": "88e99214",
         "card": "no",
+        "active": false
+      },
+      {
+        "uid": "aa492509",
+        "card": "c7zq1z8u3",
+        "active": false
+      },
+      {
+        "uid": "9d53da51",
+        "card": "cie91q8ny",
         "active": false
       }
     ],
     "Yellow": [
       {
-        "uid": "ou76rfip",
+        "uid": "b53936d4",
         "card": "no",
         "active": false
       },
       {
-        "uid": "i0e66cq5",
+        "uid": "b8c68f5c",
         "card": "no",
+        "active": false
+      },
+      {
+        "uid": "476fb3c7",
+        "card": "cie91q8ny",
+        "active": false
+      },
+      {
+        "uid": "486ae3f2",
+        "card": "cie91q8ny",
         "active": false
       }
     ]
@@ -108,6 +148,19 @@
     ]
   },
   "log": [
+    {
+      "ts": 1792010655219,
+      "type": "deal",
+      "season": 8,
+      "mark": "w0",
+      "text": "Season 8: 2 random cards for every team"
+    },
+    {
+      "ts": 1792010655219,
+      "type": "season",
+      "season": 8,
+      "text": "Season 8: every team received 2 “No” cards"
+    },
     {
       "ts": 1792006854145,
       "type": "deal",
@@ -123,6 +176,10 @@
   ],
   "deals": {
     "8:1792006744785": [
+      "start",
+      "w0"
+    ],
+    "8:1792010652417": [
       "start",
       "w0"
     ]
