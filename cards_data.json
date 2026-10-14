@@ -1,0 +1,71 @@
+{
+  "v": 1,
+  "deck": [
+    {
+      "id": "no",
+      "name": "No",
+      "desc": "Cancels the card your opponent plays in this game.",
+      "img": null,
+      "draw": false,
+      "system": true
+    }
+  ],
+  "hands": {
+    "HOSI": [
+      {
+        "uid": "vf1omqiy",
+        "card": "no",
+        "active": false
+      },
+      {
+        "uid": "nhfg3qb8",
+        "card": "no",
+        "active": false
+      }
+    ],
+    "Sezar": [
+      {
+        "uid": "qe016f9c",
+        "card": "no",
+        "active": false
+      },
+      {
+        "uid": "j9nkz2qu",
+        "card": "no",
+        "active": false
+      }
+    ],
+    "Bayern": [
+      {
+        "uid": "49nxt8q5",
+        "card": "no",
+        "active": false
+      },
+      {
+        "uid": "s1d582nf",
+        "card": "no",
+        "active": false
+      }
+    ],
+    "Yellow": [
+      {
+        "uid": "ou76rfip",
+        "card": "no",
+        "active": false
+      },
+      {
+        "uid": "i0e66cq5",
+        "card": "no",
+        "active": false
+      }
+    ]
+  },
+  "dealt": {},
+  "log": [
+    {
+      "ts": 1792005319008,
+      "type": "reset",
+      "text": "All hands reset"
+    }
+  ]
+}
