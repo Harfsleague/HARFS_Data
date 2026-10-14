@@ -8,6 +8,13 @@
       "img": null,
       "draw": false,
       "system": true
+    },
+    {
+      "id": "c7zq1z8u3",
+      "name": "Must Score 3>=",
+      "desc": "",
+      "img": 1792005673719,
+      "draw": true
     }
   ],
   "hands": {
