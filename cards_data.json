@@ -39,12 +39,12 @@
       {
         "uid": "49nxt8q5",
         "card": "no",
-        "active": true
+        "active": false
       },
       {
         "uid": "s1d582nf",
         "card": "no",
-        "active": false
+        "active": true
       }
     ],
     "Yellow": [
