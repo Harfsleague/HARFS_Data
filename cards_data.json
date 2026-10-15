@@ -90,89 +90,89 @@
   "hands": {
     "HOSI": [
       {
-        "uid": "29b9561d",
+        "uid": "03a2fbcf",
         "card": "no",
         "active": false
       },
       {
-        "uid": "26c44bc6",
+        "uid": "460b9fab",
         "card": "no",
         "active": false
       },
       {
-        "uid": "4f9f82c3",
-        "card": "crb4yy8dl",
+        "uid": "d08008e9",
+        "card": "c0xh7zi8l",
         "active": false
       },
       {
-        "uid": "fb5201f9",
-        "card": "c4catfbtq",
+        "uid": "cde022c6",
+        "card": "c7zq1z8u3",
         "active": false
       }
     ],
     "Sezar": [
       {
-        "uid": "d5cfa6ad",
+        "uid": "a5e9881d",
         "card": "no",
         "active": false
       },
       {
-        "uid": "e33818ab",
+        "uid": "1a36d58b",
         "card": "no",
         "active": false
       },
       {
-        "uid": "86b61b31",
-        "card": "cie91q8ny",
+        "uid": "86cee8a5",
+        "card": "cc2risvvh",
         "active": false
       },
       {
-        "uid": "1df6ad03",
-        "card": "c7cq3nw3j",
+        "uid": "6946a9ac",
+        "card": "c0z49jmqs",
         "active": false
       }
     ],
     "Bayern": [
       {
-        "uid": "fc80afd0",
+        "uid": "ff4caf14",
         "card": "no",
         "active": false
       },
       {
-        "uid": "88e99214",
+        "uid": "4fc9bcbb",
         "card": "no",
         "active": false
       },
       {
-        "uid": "aa492509",
+        "uid": "2f0e941c",
+        "card": "c4catfbtq",
+        "active": false
+      },
+      {
+        "uid": "82fcb946",
         "card": "c7zq1z8u3",
-        "active": false
-      },
-      {
-        "uid": "9d53da51",
-        "card": "cie91q8ny",
         "active": false
       }
     ],
     "Yellow": [
       {
-        "uid": "b53936d4",
+        "uid": "59123de9",
         "card": "no",
         "active": false
       },
       {
-        "uid": "b8c68f5c",
+        "uid": "1e506338",
         "card": "no",
         "active": false
       },
       {
-        "uid": "476fb3c7",
-        "card": "cie91q8ny",
+        "uid": "e402bd61",
+        "card": "c0z49jmqs",
         "active": false
       },
       {
-        "uid": "486ae3f2",
-        "card": "cie91q8ny",
+        "uid": "8a49155c",
+        "card": "c7cq3nw3j",
         "active": false
       }
     ]
@@ -183,6 +183,19 @@
     ]
   },
   "log": [
+    {
+      "ts": 1792072110136,
+      "type": "deal",
+      "season": 8,
+      "mark": "w0",
+      "text": "Season 8: 2 random cards for every team"
+    },
+    {
+      "ts": 1792072110136,
+      "type": "season",
+      "season": 8,
+      "text": "Season 8: every team received 2 “No” cards"
+    },
     {
       "ts": 1792010655219,
       "type": "deal",
@@ -215,6 +228,10 @@
       "w0"
     ],
     "8:1792010652417": [
+      "start",
+      "w0"
+    ],
+    "8:1792072105481": [
       "start",
       "w0"
     ]
