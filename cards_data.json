@@ -85,6 +85,14 @@
       "desc": "",
       "img": 1792065305733,
       "draw": true
+    },
+    {
+      "id": "combo",
+      "name": "Combo point",
+      "desc": "Hold 3 of these and redeem them for +4 league points.",
+      "img": null,
+      "draw": true,
+      "system": true
     }
   ],
   "hands": {
@@ -168,7 +176,8 @@
       {
         "uid": "e402bd61",
         "card": "c0z49jmqs",
-        "active": false
+        "active": true,
+        "at": 1792087576020
       },
       {
         "uid": "8a49155c",
@@ -236,5 +245,6 @@
       "w0"
     ]
   },
-  "used": {}
+  "used": {},
+  "bonus": {}
 }
