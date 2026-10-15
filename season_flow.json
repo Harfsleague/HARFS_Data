@@ -1,4 +1,155 @@
 {
   "v": 1,
-  "current": null
+  "current": {
+    "seasonId": 8,
+    "createdAt": 1792072105481,
+    "fixtures": [
+      {
+        "id": "r1m1",
+        "round": 1,
+        "home": "Sezar",
+        "away": "Bayern"
+      },
+      {
+        "id": "r1m2",
+        "round": 1,
+        "home": "HOSI",
+        "away": "Bayern"
+      },
+      {
+        "id": "r1m3",
+        "round": 1,
+        "home": "HOSI",
+        "away": "Sezar"
+      },
+      {
+        "id": "r2m1",
+        "round": 2,
+        "home": "Yellow",
+        "away": "HOSI"
+      },
+      {
+        "id": "r2m2",
+        "round": 2,
+        "home": "Yellow",
+        "away": "Bayern"
+      },
+      {
+        "id": "r2m3",
+        "round": 2,
+        "home": "Sezar",
+        "away": "Yellow"
+      },
+      {
+        "id": "r3m1",
+        "round": 3,
+        "home": "Sezar",
+        "away": "HOSI"
+      },
+      {
+        "id": "r3m2",
+        "round": 3,
+        "home": "Bayern",
+        "away": "Sezar"
+      },
+      {
+        "id": "r3m3",
+        "round": 3,
+        "home": "Bayern",
+        "away": "HOSI"
+      },
+      {
+        "id": "r4m1",
+        "round": 4,
+        "home": "Yellow",
+        "away": "Sezar"
+      },
+      {
+        "id": "r4m2",
+        "round": 4,
+        "home": "HOSI",
+        "away": "Yellow"
+      },
+      {
+        "id": "r4m3",
+        "round": 4,
+        "home": "Bayern",
+        "away": "Yellow"
+      },
+      {
+        "id": "r5m1",
+        "round": 5,
+        "home": "HOSI",
+        "away": "Sezar"
+      },
+      {
+        "id": "r5m2",
+        "round": 5,
+        "home": "Sezar",
+        "away": "Bayern"
+      },
+      {
+        "id": "r5m3",
+        "round": 5,
+        "home": "HOSI",
+        "away": "Bayern"
+      },
+      {
+        "id": "r6m1",
+        "round": 6,
+        "home": "Sezar",
+        "away": "Yellow"
+      },
+      {
+        "id": "r6m2",
+        "round": 6,
+        "home": "Yellow",
+        "away": "Bayern"
+      },
+      {
+        "id": "r6m3",
+        "round": 6,
+        "home": "Yellow",
+        "away": "HOSI"
+      },
+      {
+        "id": "r7m1",
+        "round": 7,
+        "home": "Bayern",
+        "away": "HOSI"
+      },
+      {
+        "id": "r7m2",
+        "round": 7,
+        "home": "Bayern",
+        "away": "Sezar"
+      },
+      {
+        "id": "r7m3",
+        "round": 7,
+        "home": "Sezar",
+        "away": "HOSI"
+      },
+      {
+        "id": "r8m1",
+        "round": 8,
+        "home": "Yellow",
+        "away": "Sezar"
+      },
+      {
+        "id": "r8m2",
+        "round": 8,
+        "home": "HOSI",
+        "away": "Yellow"
+      },
+      {
+        "id": "r8m3",
+        "round": 8,
+        "home": "Bayern",
+        "away": "Yellow"
+      }
+    ],
+    "cupEdition": null,
+    "superCup": null
+  }
 }
