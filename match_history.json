@@ -1,10 +1,19 @@
 [
   {
     "home": "HOSI",
-    "away": "Sezar",
-    "score": "3-2",
-    "timestamp": "2026-10-15T18:23:32.732Z",
-    "fx": "r1m3",
-    "round": 1
+    "away": "Bayern",
+    "score": "3-4",
+    "timestamp": "2026-10-15T18:44:22.142Z",
+    "fx": "r1m2",
+    "round": 1,
+    "cards": {
+      "Bayern": [
+        {
+          "card": "c4catfbtq",
+          "name": "+1 Goal",
+          "cancelled": false
+        }
+      ]
+    }
   }
 ]
