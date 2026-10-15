@@ -145,12 +145,6 @@
         "active": false
       },
       {
-        "uid": "2f0e941c",
-        "card": "c4catfbtq",
-        "active": true,
-        "at": 1792088701039
-      },
-      {
         "uid": "82fcb946",
         "card": "c7zq1z8u3",
         "active": false
@@ -186,6 +180,15 @@
     ]
   },
   "log": [
+    {
+      "ts": 1792089858246,
+      "type": "used",
+      "team": "Bayern",
+      "card": "c4catfbtq",
+      "name": "+1 Goal",
+      "game": "L:r1m2",
+      "note": ""
+    },
     {
       "ts": 1792072110136,
       "type": "deal",
@@ -245,6 +248,21 @@
       "ts": 1792088611151,
       "home": null,
       "away": null
+    },
+    "L:8:1792072105481:r1m2": {
+      "stage": "league",
+      "ts": 1792089858246,
+      "home": null,
+      "away": {
+        "team": "Bayern",
+        "cards": [
+          {
+            "card": "c4catfbtq",
+            "name": "+1 Goal",
+            "cancelled": false
+          }
+        ]
+      }
     }
   },
   "bonus": {}
