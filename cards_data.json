@@ -238,6 +238,13 @@
       "w0"
     ]
   },
-  "used": {},
+  "used": {
+    "L:8:1792072105481:r1m3": {
+      "stage": "league",
+      "ts": 1792088611151,
+      "home": null,
+      "away": null
+    }
+  },
   "bonus": {}
 }
