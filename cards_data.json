@@ -175,12 +175,6 @@
         "uid": "86cee8a5",
         "card": "cc2risvvh",
         "active": false
-      },
-      {
-        "uid": "6946a9ac",
-        "card": "c0z49jmqs",
-        "active": true,
-        "at": 1792097411653
       }
     ],
     "Bayern": [
@@ -224,6 +218,15 @@
     ]
   },
   "log": [
+    {
+      "ts": 1792697543464,
+      "type": "used",
+      "team": "Sezar",
+      "card": "c0z49jmqs",
+      "name": "Legend Team",
+      "game": "L:r2m3",
+      "note": ""
+    },
     {
       "ts": 1792695180777,
       "type": "used",
@@ -342,6 +345,21 @@
       "stage": "league",
       "ts": 1792697525054,
       "home": null,
+      "away": null
+    },
+    "L:8:1792072105481:r2m3": {
+      "stage": "league",
+      "ts": 1792697543464,
+      "home": {
+        "team": "Sezar",
+        "cards": [
+          {
+            "card": "c0z49jmqs",
+            "name": "Legend Team",
+            "cancelled": false
+          }
+        ]
+      },
       "away": null
     }
   },
