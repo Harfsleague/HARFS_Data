@@ -212,12 +212,6 @@
         "active": false
       },
       {
-        "uid": "e402bd61",
-        "card": "c0z49jmqs",
-        "active": true,
-        "at": 1792695062595
-      },
-      {
         "uid": "8a49155c",
         "card": "c7cq3nw3j",
         "active": false
@@ -230,6 +224,15 @@
     ]
   },
   "log": [
+    {
+      "ts": 1792695180777,
+      "type": "used",
+      "team": "Yellow",
+      "card": "c0z49jmqs",
+      "name": "Legend Team",
+      "game": "L:r2m1",
+      "note": ""
+    },
     {
       "ts": 1792089858246,
       "type": "used",
@@ -318,6 +321,21 @@
       "stage": "league",
       "ts": 1792091305604,
       "home": null,
+      "away": null
+    },
+    "L:8:1792072105481:r2m1": {
+      "stage": "league",
+      "ts": 1792695180777,
+      "home": {
+        "team": "Yellow",
+        "cards": [
+          {
+            "card": "c0z49jmqs",
+            "name": "Legend Team",
+            "cancelled": false
+          }
+        ]
+      },
       "away": null
     }
   },
