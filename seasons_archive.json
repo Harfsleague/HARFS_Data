@@ -431,6 +431,13 @@
   {
     "seasonId": 7,
     "date": "2026-10-01T20:38:57.146Z",
+    "cupEdition": 1,
+    "superCup": {
+        "teams": ["HOSI", "Sezar"],
+        "scores": { "HOSI": 1, "Sezar": 2 },
+        "winner": "Sezar",
+        "ts": 1791740000000
+    },
     "table": [
       {
         "name": "HOSI",
