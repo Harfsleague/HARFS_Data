@@ -158,6 +158,16 @@
         "uid": "cde022c6",
         "card": "c7zq1z8u3",
         "active": false
+      },
+      {
+        "uid": "ecb526ca",
+        "card": "cc2risvvh",
+        "active": false
+      },
+      {
+        "uid": "aed1691b",
+        "card": "cvmh4zurj",
+        "active": false
       }
     ],
     "Sezar": [
@@ -174,6 +184,16 @@
       {
         "uid": "86cee8a5",
         "card": "cc2risvvh",
+        "active": false
+      },
+      {
+        "uid": "e7b22753",
+        "card": "cqett0m37",
+        "active": false
+      },
+      {
+        "uid": "1c96fbd6",
+        "card": "c39jlys9u",
         "active": false
       }
     ],
@@ -192,6 +212,16 @@
         "uid": "82fcb946",
         "card": "c7zq1z8u3",
         "active": false
+      },
+      {
+        "uid": "5240e3a1",
+        "card": "crb4yy8dl",
+        "active": false
+      },
+      {
+        "uid": "2aba7efc",
+        "card": "cgu9mcd0d",
+        "active": false
       }
     ],
     "Yellow": [
@@ -209,6 +239,16 @@
         "uid": "8a49155c",
         "card": "c7cq3nw3j",
         "active": false
+      },
+      {
+        "uid": "8f2798ec",
+        "card": "cgu9mcd0d",
+        "active": false
+      },
+      {
+        "uid": "da0eb6cf",
+        "card": "cgumsf7bz",
+        "active": false
       }
     ]
   },
@@ -218,6 +258,13 @@
     ]
   },
   "log": [
+    {
+      "ts": 1792697572034,
+      "type": "deal",
+      "season": 8,
+      "mark": "w2",
+      "text": "After matchweek 2: 2 random cards for every team"
+    },
     {
       "ts": 1792697543464,
       "type": "used",
@@ -295,7 +342,8 @@
     ],
     "8:1792072105481": [
       "start",
-      "w0"
+      "w0",
+      "w2"
     ]
   },
   "used": {
