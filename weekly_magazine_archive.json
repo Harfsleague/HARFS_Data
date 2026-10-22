@@ -1,5 +1,562 @@
 [
   {
+    "issueNumber": 6,
+    "issueDate": "2026-10-22",
+    "generatedAt": "2026-10-22T20:40:58.110Z",
+    "coverImage": "mag1.png",
+    "standingsTable": [
+      {
+        "name": "HOSI",
+        "P": 3,
+        "W": 2,
+        "D": 0,
+        "L": 1,
+        "GF": 10,
+        "GA": 7,
+        "Pts": 6
+      },
+      {
+        "name": "Sezar",
+        "P": 3,
+        "W": 2,
+        "D": 0,
+        "L": 1,
+        "GF": 7,
+        "GA": 4,
+        "Pts": 6
+      },
+      {
+        "name": "Bayern",
+        "P": 3,
+        "W": 2,
+        "D": 0,
+        "L": 1,
+        "GF": 10,
+        "GA": 6,
+        "Pts": 6
+      },
+      {
+        "name": "Yellow",
+        "P": 3,
+        "W": 0,
+        "D": 0,
+        "L": 3,
+        "GF": 2,
+        "GA": 12,
+        "Pts": 0
+      }
+    ],
+    "seasonContext": {
+      "status": "season_in_progress",
+      "tableRepresents": "live_season",
+      "endedSeasonId": null,
+      "newSeasonMatchesPlayed": 6
+    },
+    "justEndedSeason": null,
+    "weekType": "league_only",
+    "leagueWeek": {
+      "matchesThisWeek": 3,
+      "isActive": true
+    },
+    "schedule": {
+      "status": "active",
+      "seasonId": 8,
+      "phase": "league_a",
+      "phaseLabelFa": "نیم‌فصل اول لیگ",
+      "leagueIdleByDesign": false,
+      "leagueMatchweek": {
+        "current": 3,
+        "total": 8,
+        "fixturesPlayed": 6,
+        "fixturesTotal": 24
+      },
+      "gamesPerTeam": 12,
+      "stages": [
+        {
+          "id": "league_a",
+          "label": "لیگ — هفته‌های ۱ تا ۴",
+          "status": "active"
+        },
+        {
+          "id": "cup_semis",
+          "label": "نیمه‌نهایی CUP",
+          "status": "upcoming"
+        },
+        {
+          "id": "league_b",
+          "label": "لیگ — هفته‌های ۵ تا ۸",
+          "status": "upcoming"
+        },
+        {
+          "id": "cup_finals",
+          "label": "فینال و رده‌بندی CUP",
+          "status": "upcoming"
+        },
+        {
+          "id": "supercup",
+          "label": "سوپرکاپ",
+          "status": "upcoming"
+        }
+      ],
+      "nextStepFa": "هفتهٔ 3 از ۸ لیگ؛ بعد از هفتهٔ ۴ نیمه‌نهایی CUP شروع می‌شود",
+      "leagueFixturesPlayedThisWeek": [
+        {
+          "round": 2,
+          "home": "Yellow",
+          "away": "HOSI",
+          "score": "1-4"
+        },
+        {
+          "round": 2,
+          "home": "Yellow",
+          "away": "Bayern",
+          "score": "1-5"
+        },
+        {
+          "round": 2,
+          "home": "Sezar",
+          "away": "Yellow",
+          "score": "3-0"
+        }
+      ],
+      "nextLeagueFixtures": [
+        {
+          "round": 3,
+          "home": "Sezar",
+          "away": "HOSI",
+          "score": null
+        },
+        {
+          "round": 3,
+          "home": "Bayern",
+          "away": "Sezar",
+          "score": null
+        },
+        {
+          "round": 3,
+          "home": "Bayern",
+          "away": "HOSI",
+          "score": null
+        }
+      ],
+      "leagueFixturesAfterThat": [
+        {
+          "round": 4,
+          "home": "Yellow",
+          "away": "Sezar",
+          "score": null
+        },
+        {
+          "round": 4,
+          "home": "HOSI",
+          "away": "Yellow",
+          "score": null
+        },
+        {
+          "round": 4,
+          "home": "Bayern",
+          "away": "Yellow",
+          "score": null
+        }
+      ],
+      "fullTimetable": [
+        {
+          "round": 1,
+          "home": "Sezar",
+          "away": "Bayern",
+          "score": "2-1"
+        },
+        {
+          "round": 1,
+          "home": "HOSI",
+          "away": "Bayern",
+          "score": "3-4"
+        },
+        {
+          "round": 1,
+          "home": "HOSI",
+          "away": "Sezar",
+          "score": "3-2"
+        },
+        {
+          "round": 2,
+          "home": "Yellow",
+          "away": "HOSI",
+          "score": "1-4"
+        },
+        {
+          "round": 2,
+          "home": "Yellow",
+          "away": "Bayern",
+          "score": "1-5"
+        },
+        {
+          "round": 2,
+          "home": "Sezar",
+          "away": "Yellow",
+          "score": "3-0"
+        },
+        {
+          "round": 3,
+          "home": "Sezar",
+          "away": "HOSI",
+          "score": null
+        },
+        {
+          "round": 3,
+          "home": "Bayern",
+          "away": "Sezar",
+          "score": null
+        },
+        {
+          "round": 3,
+          "home": "Bayern",
+          "away": "HOSI",
+          "score": null
+        },
+        {
+          "round": 4,
+          "home": "Yellow",
+          "away": "Sezar",
+          "score": null
+        },
+        {
+          "round": 4,
+          "home": "HOSI",
+          "away": "Yellow",
+          "score": null
+        },
+        {
+          "round": 4,
+          "home": "Bayern",
+          "away": "Yellow",
+          "score": null
+        },
+        {
+          "round": 5,
+          "home": "HOSI",
+          "away": "Sezar",
+          "score": null
+        },
+        {
+          "round": 5,
+          "home": "Sezar",
+          "away": "Bayern",
+          "score": null
+        },
+        {
+          "round": 5,
+          "home": "HOSI",
+          "away": "Bayern",
+          "score": null
+        },
+        {
+          "round": 6,
+          "home": "Sezar",
+          "away": "Yellow",
+          "score": null
+        },
+        {
+          "round": 6,
+          "home": "Yellow",
+          "away": "Bayern",
+          "score": null
+        },
+        {
+          "round": 6,
+          "home": "Yellow",
+          "away": "HOSI",
+          "score": null
+        },
+        {
+          "round": 7,
+          "home": "Bayern",
+          "away": "HOSI",
+          "score": null
+        },
+        {
+          "round": 7,
+          "home": "Bayern",
+          "away": "Sezar",
+          "score": null
+        },
+        {
+          "round": 7,
+          "home": "Sezar",
+          "away": "HOSI",
+          "score": null
+        },
+        {
+          "round": 8,
+          "home": "Yellow",
+          "away": "Sezar",
+          "score": null
+        },
+        {
+          "round": 8,
+          "home": "HOSI",
+          "away": "Yellow",
+          "score": null
+        },
+        {
+          "round": 8,
+          "home": "Bayern",
+          "away": "Yellow",
+          "score": null
+        }
+      ]
+    },
+    "superCup": {
+      "hasActivity": false,
+      "status": "not_yet_known",
+      "teams": null,
+      "leagueChampion": null,
+      "cupChampion": null,
+      "sameTeamWonBoth": null,
+      "doubleRuleNote": "اگر یک تیم هم قهرمان لیگ و هم قهرمان CUP شود، حریفش در سوپرکاپ نایب‌قهرمان لیگ است",
+      "result": null,
+      "playedThisWeek": false,
+      "past": [
+        {
+          "seasonId": 7,
+          "winner": "Sezar",
+          "teams": [
+            "HOSI",
+            "Sezar"
+          ],
+          "score": "1-2"
+        }
+      ]
+    },
+    "cup": {
+      "hasActivity": false,
+      "openEdition": null,
+      "pastEditions": [
+        {
+          "edition": 1,
+          "gold": "Sezar",
+          "silver": "HOSI",
+          "bronze": "Yellow",
+          "fourth": "Bayern"
+        }
+      ]
+    },
+    "recentMatches": [
+      {
+        "home": "Yellow",
+        "away": "HOSI",
+        "score": "1-4",
+        "timestamp": "2026-10-22T19:32:47.400Z"
+      },
+      {
+        "home": "Sezar",
+        "away": "Yellow",
+        "score": "3-0",
+        "timestamp": "2026-10-22T19:32:25.796Z"
+      },
+      {
+        "home": "Yellow",
+        "away": "Bayern",
+        "score": "1-5",
+        "timestamp": "2026-10-22T19:32:07.221Z"
+      }
+    ],
+    "formGuide": [
+      {
+        "team": "HOSI",
+        "form": [
+          "W",
+          "W",
+          "L"
+        ],
+        "streakType": "W",
+        "streakCount": 2
+      },
+      {
+        "team": "Sezar",
+        "form": [
+          "W",
+          "W",
+          "L"
+        ],
+        "streakType": "W",
+        "streakCount": 2
+      },
+      {
+        "team": "Bayern",
+        "form": [
+          "W",
+          "L",
+          "W"
+        ],
+        "streakType": "W",
+        "streakCount": 1
+      },
+      {
+        "team": "Yellow",
+        "form": [
+          "L",
+          "L",
+          "L"
+        ],
+        "streakType": "L",
+        "streakCount": 3
+      }
+    ],
+    "weeklyRecords": {
+      "highestScoring": {
+        "home": "Yellow",
+        "away": "Bayern",
+        "score": "1-5",
+        "timestamp": "2026-10-22T19:32:07.221Z",
+        "total": 6
+      },
+      "biggestMargin": {
+        "home": "Yellow",
+        "away": "Bayern",
+        "score": "1-5",
+        "timestamp": "2026-10-22T19:32:07.221Z",
+        "margin": 4
+      }
+    },
+    "titleRace": {
+      "leader": "HOSI",
+      "leaderPts": 6,
+      "gaps": [
+        {
+          "team": "HOSI",
+          "pts": 6,
+          "gapToLeader": 0
+        },
+        {
+          "team": "Sezar",
+          "pts": 6,
+          "gapToLeader": 0
+        },
+        {
+          "team": "Bayern",
+          "pts": 6,
+          "gapToLeader": 0
+        },
+        {
+          "team": "Yellow",
+          "pts": 0,
+          "gapToLeader": 6
+        }
+      ]
+    },
+    "allTimeStats": [
+      {
+        "team": "HOSI",
+        "seasonsPlayed": 8,
+        "leagueTitles": 4,
+        "mbaMedals": 0,
+        "P": 71,
+        "W": 41,
+        "D": 14,
+        "L": 16,
+        "GF": 178,
+        "GA": 123,
+        "GD": 55,
+        "winRate": 57.7
+      },
+      {
+        "team": "Sezar",
+        "seasonsPlayed": 8,
+        "leagueTitles": 3,
+        "mbaMedals": 1,
+        "P": 71,
+        "W": 37,
+        "D": 16,
+        "L": 18,
+        "GF": 197,
+        "GA": 153,
+        "GD": 44,
+        "winRate": 52.1
+      },
+      {
+        "team": "Bayern",
+        "seasonsPlayed": 8,
+        "leagueTitles": 0,
+        "mbaMedals": 0,
+        "P": 70,
+        "W": 16,
+        "D": 11,
+        "L": 43,
+        "GF": 106,
+        "GA": 164,
+        "GD": -58,
+        "winRate": 22.9
+      },
+      {
+        "team": "Yellow",
+        "seasonsPlayed": 8,
+        "leagueTitles": 0,
+        "mbaMedals": 0,
+        "P": 42,
+        "W": 9,
+        "D": 7,
+        "L": 26,
+        "GF": 54,
+        "GA": 95,
+        "GD": -41,
+        "winRate": 21.4
+      }
+    ],
+    "issueTitle": "هفته طوفانی زردپوشان: سیبل سه امتیازی در لیگ HARFS!",
+    "coverSubtitle": "وقتی Yellow جور تمام رقبا را می‌کشد و مثلث مدعیان با ۶ امتیاز در صدر خیمه می‌زنند",
+    "standingsCommentary": "جدول لیگ HARFS پس از پایان هفته دوم به جذاب‌ترین و متوازن‌ترین حالت ممکن رسیده است. سه تیم HOSI، Sezar و Bayern همگی با ۶ امتیاز و ثبت ۲ برد از ۳ بازی در صدر جدول هم‌جوار شده‌اند. در آن سوی جدول، Yellow بدون برد و امتیاز، با ۱۲ گل خورده در قعر جدول تکیه زده است. رقابت در بالای جدول شانه به شانه پیش می‌رود و کوچک‌ترین لغزش در هفته‌های آتی می‌تواند جایگاه‌ها را دستخوش تغییر کند.",
+    "matchReport": "هفته دوم لیگ HARFS تماماً حول تقابل سه مدعی با تیم Yellow سپری شد. در نخستین رویارویی، HOSI با ارائه یک بازی برتر و تهاجمی توانست با نتیجه ۴-۱ از سد Yellow بگذرد. در ادامه، Bayern با یک خط آتش زهرآگین موفق شد با نتیجه ۵-۱ Yellow را در هم بکوبد و پرگل‌ترین بازی هفته را ثبت کند. در نهایت Sezar نیز با ساختاری منظم و منسجم موفق شد ۳-۰ مقابل Yellow به پیروزی برسد تا با یک کلین‌شیت ارزشمند، هفته را به پایان برساند.",
+    "cupReport": "",
+    "superCupReport": "",
+    "scheduleOutlook": "هم‌اکنون در مرحله نیم‌فصل اول لیگ (هفته ۳ از ۸) هستیم و ۶ بازی از ۲۴ بازی کل فصل انجام شده است. در هفته سوم، سه تیم Sezar، HOSI و Bayern در دیدارهای مستقیم به مصاف یکدیگر می‌روند و Yellow استراحت خواهد داشت. طبق برنامه، پس از پایان هفته چهارم لیگ، رقابت‌های حذفی CUP وارد مرحله نیمه‌نهایی خواهد شد.",
+    "playerSpotlights": [
+      {
+        "team": "Bayern",
+        "headline": "آتش‌بازی باواریایی‌ها",
+        "note": "با پیروزی ۵-۱ برابر Yellow، Bayern بهترین خط حمله‌ هفته را به نمایش گذاشت و مجموع گل‌های زده خود را به عدد ۱۰ رساند."
+      },
+      {
+        "team": "Sezar",
+        "headline": "دیوار منسجم و کلین‌شیت مطمئن",
+        "note": "تیم Sezar تنها تیمی بود که این هفته گلی دریافت نکرد و با پیروزی ۳-۰ خط دفاعی قدرتمندش را به رخ کشید."
+      },
+      {
+        "team": "Yellow",
+        "headline": "روزهای سخت در خط دفاع",
+        "note": "دریافت ۱۲ گل در ۳ بازی نشان می‌دهد که زردپوشان برای بازگشت به جدول نیازمند بازنگری اساسی در ساختار دفاعی خود هستند."
+      }
+    ],
+    "recommendations": [
+      "به کادر فنی Yellow توصیه می‌شود تمرکز ویژه‌ای روی ترمیم خط دفاعی داشته باشند تا در هفته‌های بعدی غافلگیر نشوند.",
+      "تیم Sezar باید ساختار دفاعی خوب خود را در نبردهای مستقیم هفته آینده برابر HOSI و Bayern نیز حفظ کند.",
+      "دو تیم HOSI و Bayern برای جدا کردن راه خود از سایر مدعیان صدرنشین، باید در نبرد تقابلی هفته بعد حداکثر امتیازات را هدف بگیرند."
+    ],
+    "titleRaceCommentary": "در حال حاضر کورس قهرمانی میان سه تیم HOSI، Sezar و Bayern بسیار داغ است؛ هر سه تیم ۶ امتیازی هستند و فاصله امتیازی‌شان صفر است. با این شرایط شانس سه تیم در این مرحله از فصل بسیار نزدیک به هم ارزیابی می‌شود. در نقطه مقابل، Yellow با ۶ امتیاز فاصله تا صدر، کار بسیار دشواری برای وارد شدن به کورس مدعیان قهرمانی در پیش دارد.",
+    "recordsAndOddities": "در دیدارهای این هفته، مسابقه بین Yellow و Bayern که با پیروزی ۵-۱ باواریایی‌ها پایان یافت، همعنوان پرگل‌ترین بازی هفته با مجموع ۶ گل و هم عنوان بزرگ‌ترین اختلاف نتیجه را با ۴ گل اختلاف به خود اختصاص داد.",
+    "funnyClosing": "هفته دوم به ما ثابت کرد که اگر در لیگ HARFS به دنبال جلب رضایت همه رقبا هستید، کافی است جلوی آن‌ها بازی کنید! باید دید در هفته سوم، سه مدعی شش‌امتیازی چطور در بازی‌های مستقیم امتیازات را تقسیم خواهند کرد.",
+    "interview": {
+      "team": "Sezar",
+      "intervieweeRole": "سرمربی",
+      "intervieweeName": "قیصر برزگر",
+      "headline": "قیصر: دفاع ما حساب‌شده است؛ برای بازی‌های بزرگ هفته بعد آماده‌ایم!",
+      "qAndA": [
+        {
+          "question": "جناب برزگر، برد ۳-۰ این هفته برابر Yellow را چطور ارزیابی می‌کنید؟",
+          "answer": "بازی خیلی خوبی بود. بچه‌ها طبق برنامه‌ای که داشتیم روان بازی کردند. گل نخوردن برای ما اهمیت زیادی داشت که خوشبختانه به آن رسیدیم."
+        },
+        {
+          "question": "اکنون با ۶ امتیاز همراه با HOSI و Bayern در صدر هستید. برنامه شما برای بازی‌های سنگین هفته بعد چیست؟",
+          "answer": "ما کمترین گل خورده را در جدول داریم (۴ گل). این نشان می‌دهد ساختار دفاعی Sezar کارش را بلد است. هفته آینده نبردهای مستقیم داریم و اصلاً نگران مواجهه با HOSI یا Bayern نیستیم."
+        },
+        {
+          "question": "آیا فکر نمیکنید پیروزی مقابل Yellow کار ساده‌ای بوده باشد؟",
+          "answer": "هیچ بازی در لیگ HARFS ساده نیست. مهم گرفتن ۳ امتیاز و حفظ روحیه پیروزی است که به بهترین شکل انجام شد."
+        }
+      ]
+    }
+  },
+  {
     "issueNumber": 5,
     "issueDate": "2026-10-15",
     "generatedAt": "2026-10-15T20:37:13.555Z",
