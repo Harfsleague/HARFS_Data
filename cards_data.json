@@ -337,6 +337,12 @@
         ]
       },
       "away": null
+    },
+    "L:8:1792072105481:r2m2": {
+      "stage": "league",
+      "ts": 1792697525054,
+      "home": null,
+      "away": null
     }
   },
   "bonus": {}
