@@ -1,5 +1,22 @@
 [
   {
+    "home": "Yellow",
+    "away": "HOSI",
+    "score": "1-4",
+    "timestamp": "2026-10-22T19:32:47.400Z",
+    "fx": "r2m1",
+    "round": 2,
+    "cards": {
+      "Yellow": [
+        {
+          "card": "c0z49jmqs",
+          "name": "Legend Team",
+          "cancelled": false
+        }
+      ]
+    }
+  },
+  {
     "home": "Sezar",
     "away": "Yellow",
     "score": "3-0",
