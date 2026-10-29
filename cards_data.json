@@ -202,7 +202,8 @@
       {
         "uid": "1c96fbd6",
         "card": "c39jlys9u",
-        "active": false
+        "active": true,
+        "at": 1793295561502
       }
     ],
     "Bayern": [
