@@ -162,12 +162,6 @@
         "active": false
       },
       {
-        "uid": "ecb526ca",
-        "card": "cc2risvvh",
-        "active": true,
-        "at": 1793296097228
-      },
-      {
         "uid": "aed1691b",
         "card": "cvmh4zurj",
         "active": false
@@ -189,18 +183,6 @@
         "card": "cc2risvvh",
         "active": false,
         "at": 1793296075933
-      },
-      {
-        "uid": "e7b22753",
-        "card": "cqett0m37",
-        "active": true,
-        "at": 1793296101613
-      },
-      {
-        "uid": "1c96fbd6",
-        "card": "c39jlys9u",
-        "active": true,
-        "at": 1793296105417
       }
     ],
     "Bayern": [
@@ -264,6 +246,33 @@
     ]
   },
   "log": [
+    {
+      "ts": 1793297477524,
+      "type": "used",
+      "team": "HOSI",
+      "card": "cc2risvvh",
+      "name": "Never",
+      "game": "L:r3m1",
+      "note": ""
+    },
+    {
+      "ts": 1793297477524,
+      "type": "used",
+      "team": "Sezar",
+      "card": "c39jlys9u",
+      "name": "Chaos Shift",
+      "game": "L:r3m1",
+      "note": ""
+    },
+    {
+      "ts": 1793297477524,
+      "type": "used",
+      "team": "Sezar",
+      "card": "cqett0m37",
+      "name": "No Sub",
+      "game": "L:r3m1",
+      "note": ""
+    },
     {
       "ts": 1792697572034,
       "type": "deal",
@@ -415,6 +424,35 @@
         ]
       },
       "away": null
+    },
+    "L:8:1792072105481:r3m1": {
+      "stage": "league",
+      "ts": 1793297477524,
+      "home": {
+        "team": "Sezar",
+        "cards": [
+          {
+            "card": "cqett0m37",
+            "name": "No Sub",
+            "cancelled": false
+          },
+          {
+            "card": "c39jlys9u",
+            "name": "Chaos Shift",
+            "cancelled": false
+          }
+        ]
+      },
+      "away": {
+        "team": "HOSI",
+        "cards": [
+          {
+            "card": "cc2risvvh",
+            "name": "Never",
+            "cancelled": false
+          }
+        ]
+      }
     }
   },
   "bonus": {}
