@@ -172,6 +172,16 @@
         "uid": "aed1691b",
         "card": "cvmh4zurj",
         "active": false
+      },
+      {
+        "uid": "46940749",
+        "card": "crb4yy8dl",
+        "active": false
+      },
+      {
+        "uid": "e9c52f4f",
+        "card": "c7gijr4os",
+        "active": false
       }
     ],
     "Sezar": [
@@ -190,6 +200,16 @@
         "card": "cc2risvvh",
         "active": false,
         "at": 1793296075933
+      },
+      {
+        "uid": "38e83e9a",
+        "card": "c85tfr00u",
+        "active": false
+      },
+      {
+        "uid": "574835f9",
+        "card": "crb4yy8dl",
+        "active": false
       }
     ],
     "Bayern": [
@@ -207,6 +227,16 @@
         "uid": "2aba7efc",
         "card": "cgu9mcd0d",
         "active": false
+      },
+      {
+        "uid": "6adafa0b",
+        "card": "cgu9mcd0d",
+        "active": false
+      },
+      {
+        "uid": "cc8ac764",
+        "card": "cgu9mcd0d",
+        "active": false
       }
     ],
     "Yellow": [
@@ -219,6 +249,16 @@
         "uid": "1e506338",
         "card": "no",
         "active": false
+      },
+      {
+        "uid": "588d1bc3",
+        "card": "c7zq1z8u3",
+        "active": false
+      },
+      {
+        "uid": "e1139769",
+        "card": "cnyqn1uld",
+        "active": false
       }
     ]
   },
@@ -228,6 +268,13 @@
     ]
   },
   "log": [
+    {
+      "ts": 1793906674675,
+      "type": "deal",
+      "season": 8,
+      "mark": "w4",
+      "text": "After matchweek 4: 2 random cards for every team"
+    },
     {
       "ts": 1793906666447,
       "type": "used",
@@ -385,7 +432,8 @@
     "8:1792072105481": [
       "start",
       "w0",
-      "w2"
+      "w2",
+      "w4"
     ]
   },
   "used": {
