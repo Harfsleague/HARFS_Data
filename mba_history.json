@@ -1,5 +1,41 @@
 {
-  "current": null,
+  "current": {
+    "edition": 2,
+    "createdAt": 1793906698309,
+    "seasonId": 8,
+    "semis": [
+      {
+        "teams": [
+          "Bayern",
+          "Yellow"
+        ],
+        "wins": {
+          "Bayern": 0,
+          "Yellow": 0
+        },
+        "legs": [],
+        "winner": null
+      },
+      {
+        "teams": [
+          "HOSI",
+          "Sezar"
+        ],
+        "wins": {
+          "HOSI": 0,
+          "Sezar": 0
+        },
+        "legs": [],
+        "winner": null
+      }
+    ],
+    "final": {
+      "winner": null
+    },
+    "thirdPlace": {
+      "winner": null
+    }
+  },
   "completed": [
     {
       "edition": 1,
