@@ -239,12 +239,6 @@
         "uid": "8f2798ec",
         "card": "cgu9mcd0d",
         "active": false
-      },
-      {
-        "uid": "da0eb6cf",
-        "card": "cgumsf7bz",
-        "active": true,
-        "at": 1793902869198
       }
     ]
   },
@@ -254,6 +248,15 @@
     ]
   },
   "log": [
+    {
+      "ts": 1793903941426,
+      "type": "used",
+      "team": "Yellow",
+      "card": "cgumsf7bz",
+      "name": "Ban Player",
+      "game": "L:r4m2",
+      "note": ""
+    },
     {
       "ts": 1793297477524,
       "type": "used",
@@ -473,6 +476,21 @@
       "ts": 1793299674767,
       "home": null,
       "away": null
+    },
+    "L:8:1792072105481:r4m2": {
+      "stage": "league",
+      "ts": 1793903941426,
+      "home": null,
+      "away": {
+        "team": "Yellow",
+        "cards": [
+          {
+            "card": "cgumsf7bz",
+            "name": "Ban Player",
+            "cancelled": false
+          }
+        ]
+      }
     }
   },
   "bonus": {}
