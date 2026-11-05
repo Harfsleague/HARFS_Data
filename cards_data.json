@@ -194,12 +194,6 @@
     ],
     "Bayern": [
       {
-        "uid": "ff4caf14",
-        "card": "no",
-        "active": true,
-        "at": 1793905197661
-      },
-      {
         "uid": "4fc9bcbb",
         "card": "no",
         "active": false
@@ -208,12 +202,6 @@
         "uid": "82fcb946",
         "card": "c7zq1z8u3",
         "active": false
-      },
-      {
-        "uid": "5240e3a1",
-        "card": "crb4yy8dl",
-        "active": true,
-        "at": 1793905206452
       },
       {
         "uid": "2aba7efc",
@@ -231,12 +219,6 @@
         "uid": "1e506338",
         "card": "no",
         "active": false
-      },
-      {
-        "uid": "8f2798ec",
-        "card": "cgu9mcd0d",
-        "active": true,
-        "at": 1793905188936
       }
     ]
   },
@@ -246,6 +228,33 @@
     ]
   },
   "log": [
+    {
+      "ts": 1793906666447,
+      "type": "used",
+      "team": "Yellow",
+      "card": "cgu9mcd0d",
+      "name": "Exchange",
+      "game": "L:r4m3",
+      "note": "cancelled by the opponent's “No”"
+    },
+    {
+      "ts": 1793906666447,
+      "type": "used",
+      "team": "Bayern",
+      "card": "crb4yy8dl",
+      "name": "Restart",
+      "game": "L:r4m3",
+      "note": ""
+    },
+    {
+      "ts": 1793906666447,
+      "type": "used",
+      "team": "Bayern",
+      "card": "no",
+      "name": "No",
+      "game": "L:r4m3",
+      "note": ""
+    },
     {
       "ts": 1793905074534,
       "type": "used",
@@ -513,6 +522,35 @@
         ]
       },
       "away": null
+    },
+    "L:8:1792072105481:r4m3": {
+      "stage": "league",
+      "ts": 1793906666447,
+      "home": {
+        "team": "Bayern",
+        "cards": [
+          {
+            "card": "no",
+            "name": "No",
+            "cancelled": false
+          },
+          {
+            "card": "crb4yy8dl",
+            "name": "Restart",
+            "cancelled": false
+          }
+        ]
+      },
+      "away": {
+        "team": "Yellow",
+        "cards": [
+          {
+            "card": "cgu9mcd0d",
+            "name": "Exchange",
+            "cancelled": true
+          }
+        ]
+      }
     }
   },
   "bonus": {}
