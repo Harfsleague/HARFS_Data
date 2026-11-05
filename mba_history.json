@@ -22,10 +22,19 @@
           "Sezar"
         ],
         "wins": {
-          "HOSI": 0,
+          "HOSI": 1,
           "Sezar": 0
         },
-        "legs": [],
+        "legs": [
+          {
+            "winner": "HOSI",
+            "scores": {
+              "HOSI": 2,
+              "Sezar": 1
+            },
+            "ts": 1793907876585
+          }
+        ],
         "winner": null
       }
     ],
