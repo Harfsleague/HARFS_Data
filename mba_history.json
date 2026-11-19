@@ -17,8 +17,8 @@
           {
             "winner": "Bayern",
             "scores": {
-              "Bayern": 2,
-              "Yellow": 0
+              "Bayern": 5,
+              "Yellow": 1
             },
             "ts": 1795118419879,
             "cards": {
@@ -29,7 +29,8 @@
                   "cancelled": false
                 }
               ]
-            }
+            },
+            "editedAt": 1795118460795
           },
           {
             "winner": "Bayern",
