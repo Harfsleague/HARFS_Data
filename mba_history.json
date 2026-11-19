@@ -22,7 +22,7 @@
           "Sezar"
         ],
         "wins": {
-          "HOSI": 2,
+          "HOSI": 3,
           "Sezar": 1
         },
         "legs": [
@@ -49,9 +49,17 @@
               "Sezar": 4
             },
             "ts": 1793910179366
+          },
+          {
+            "winner": "HOSI",
+            "scores": {
+              "HOSI": 3,
+              "Sezar": 2
+            },
+            "ts": 1795113020628
           }
         ],
-        "winner": null
+        "winner": "HOSI"
       }
     ],
     "final": {
