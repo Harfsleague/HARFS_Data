@@ -673,6 +673,12 @@
           }
         ]
       }
+    },
+    "C:2:s0:l2": {
+      "stage": "semi",
+      "ts": 1795118486559,
+      "home": null,
+      "away": null
     }
   },
   "bonus": {}
