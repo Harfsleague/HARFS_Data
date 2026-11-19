@@ -10,7 +10,7 @@
           "Yellow"
         ],
         "wins": {
-          "Bayern": 1,
+          "Bayern": 2,
           "Yellow": 2
         },
         "legs": [
@@ -62,6 +62,14 @@
               "Yellow": 1
             },
             "ts": 1795118486128
+          },
+          {
+            "winner": "Bayern",
+            "scores": {
+              "Bayern": 1,
+              "Yellow": 0
+            },
+            "ts": 1795118494829
           }
         ],
         "winner": null
