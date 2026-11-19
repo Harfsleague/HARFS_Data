@@ -10,10 +10,28 @@
           "Yellow"
         ],
         "wins": {
-          "Bayern": 0,
+          "Bayern": 1,
           "Yellow": 0
         },
-        "legs": [],
+        "legs": [
+          {
+            "winner": "Bayern",
+            "scores": {
+              "Bayern": 2,
+              "Yellow": 0
+            },
+            "ts": 1795118419879,
+            "cards": {
+              "Bayern": [
+                {
+                  "card": "cgu9mcd0d",
+                  "name": "Exchange",
+                  "cancelled": false
+                }
+              ]
+            }
+          }
+        ],
         "winner": null
       },
       {
