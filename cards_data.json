@@ -244,18 +244,6 @@
         "active": false
       },
       {
-        "uid": "1e506338",
-        "card": "no",
-        "active": true,
-        "at": 1795116230302
-      },
-      {
-        "uid": "588d1bc3",
-        "card": "c7zq1z8u3",
-        "active": true,
-        "at": 1795116226321
-      },
-      {
         "uid": "e1139769",
         "card": "cnyqn1uld",
         "active": false
@@ -268,6 +256,24 @@
     ]
   },
   "log": [
+    {
+      "ts": 1795118447150,
+      "type": "used",
+      "team": "Yellow",
+      "card": "no",
+      "name": "No",
+      "game": "C:2:s0:l1",
+      "note": ""
+    },
+    {
+      "ts": 1795118447150,
+      "type": "used",
+      "team": "Yellow",
+      "card": "c7zq1z8u3",
+      "name": "Must Score 3>=",
+      "game": "C:2:s0:l1",
+      "note": ""
+    },
     {
       "ts": 1795114960837,
       "type": "used",
@@ -647,6 +653,26 @@
         ]
       },
       "away": null
+    },
+    "C:2:s0:l1": {
+      "stage": "semi",
+      "ts": 1795118447150,
+      "home": null,
+      "away": {
+        "team": "Yellow",
+        "cards": [
+          {
+            "card": "c7zq1z8u3",
+            "name": "Must Score 3>=",
+            "cancelled": false
+          },
+          {
+            "card": "no",
+            "name": "No",
+            "cancelled": false
+          }
+        ]
+      }
     }
   },
   "bonus": {}
