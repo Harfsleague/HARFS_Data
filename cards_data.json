@@ -232,12 +232,6 @@
         "at": 1794939144130
       },
       {
-        "uid": "6adafa0b",
-        "card": "cgu9mcd0d",
-        "active": true,
-        "at": 1794939165129
-      },
-      {
         "uid": "cc8ac764",
         "card": "cgu9mcd0d",
         "active": false
@@ -272,6 +266,15 @@
     ]
   },
   "log": [
+    {
+      "ts": 1795114960837,
+      "type": "used",
+      "team": "Bayern",
+      "card": "cgu9mcd0d",
+      "name": "Exchange",
+      "game": "C:2:s0:l0",
+      "note": ""
+    },
     {
       "ts": 1793906674675,
       "type": "deal",
@@ -626,6 +629,21 @@
       "stage": "semi",
       "ts": 1795112864060,
       "home": null,
+      "away": null
+    },
+    "C:2:s0:l0": {
+      "stage": "semi",
+      "ts": 1795114960837,
+      "home": {
+        "team": "Bayern",
+        "cards": [
+          {
+            "card": "cgu9mcd0d",
+            "name": "Exchange",
+            "cancelled": false
+          }
+        ]
+      },
       "away": null
     }
   },
