@@ -10,7 +10,7 @@
           "Yellow"
         ],
         "wins": {
-          "Bayern": 1,
+          "Bayern": 2,
           "Yellow": 0
         },
         "legs": [
@@ -26,6 +26,28 @@
                 {
                   "card": "cgu9mcd0d",
                   "name": "Exchange",
+                  "cancelled": false
+                }
+              ]
+            }
+          },
+          {
+            "winner": "Bayern",
+            "scores": {
+              "Bayern": 5,
+              "Yellow": 1
+            },
+            "ts": 1795118446646,
+            "cards": {
+              "Yellow": [
+                {
+                  "card": "c7zq1z8u3",
+                  "name": "Must Score 3>=",
+                  "cancelled": false
+                },
+                {
+                  "card": "no",
+                  "name": "No",
                   "cancelled": false
                 }
               ]
