@@ -10,8 +10,8 @@
           "Yellow"
         ],
         "wins": {
-          "Bayern": 2,
-          "Yellow": 0
+          "Bayern": 1,
+          "Yellow": 1
         },
         "legs": [
           {
@@ -33,10 +33,10 @@
             "editedAt": 1795118460795
           },
           {
-            "winner": "Bayern",
+            "winner": "Yellow",
             "scores": {
-              "Bayern": 5,
-              "Yellow": 1
+              "Bayern": 2,
+              "Yellow": 3
             },
             "ts": 1795118446646,
             "cards": {
@@ -52,7 +52,8 @@
                   "cancelled": false
                 }
               ]
-            }
+            },
+            "editedAt": 1795118473595
           }
         ],
         "winner": null
