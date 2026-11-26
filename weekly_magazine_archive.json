@@ -1,5 +1,814 @@
 [
   {
+    "issueNumber": 10,
+    "issueDate": "2026-11-26",
+    "generatedAt": "2026-11-26T20:52:18.450Z",
+    "coverImage": "mag1.png",
+    "standingsTable": [
+      {
+        "name": "HOSI",
+        "P": 8,
+        "W": 6,
+        "D": 0,
+        "L": 2,
+        "GF": 26,
+        "GA": 15,
+        "Pts": 18
+      },
+      {
+        "name": "Sezar",
+        "P": 8,
+        "W": 5,
+        "D": 0,
+        "L": 3,
+        "GF": 20,
+        "GA": 14,
+        "Pts": 15
+      },
+      {
+        "name": "Bayern",
+        "P": 8,
+        "W": 4,
+        "D": 0,
+        "L": 4,
+        "GF": 16,
+        "GA": 16,
+        "Pts": 12
+      },
+      {
+        "name": "Yellow",
+        "P": 6,
+        "W": 0,
+        "D": 0,
+        "L": 6,
+        "GF": 3,
+        "GA": 20,
+        "Pts": 0
+      }
+    ],
+    "seasonContext": {
+      "status": "season_in_progress",
+      "tableRepresents": "live_season",
+      "endedSeasonId": null,
+      "newSeasonMatchesPlayed": 15
+    },
+    "justEndedSeason": null,
+    "weekType": "league_only",
+    "leagueWeek": {
+      "matchesThisWeek": 3,
+      "isActive": true
+    },
+    "schedule": {
+      "status": "active",
+      "seasonId": 8,
+      "phase": "league_b",
+      "phaseLabelFa": "نیم‌فصل دوم لیگ",
+      "leagueIdleByDesign": false,
+      "leagueMatchweek": {
+        "current": 6,
+        "total": 8,
+        "fixturesPlayed": 15,
+        "fixturesTotal": 24
+      },
+      "gamesPerTeam": 12,
+      "stages": [
+        {
+          "id": "league_a",
+          "label": "لیگ — هفته‌های ۱ تا ۴",
+          "status": "done"
+        },
+        {
+          "id": "cup_semis",
+          "label": "نیمه‌نهایی CUP",
+          "status": "done"
+        },
+        {
+          "id": "league_b",
+          "label": "لیگ — هفته‌های ۵ تا ۸",
+          "status": "active"
+        },
+        {
+          "id": "cup_finals",
+          "label": "فینال و رده‌بندی CUP",
+          "status": "upcoming"
+        },
+        {
+          "id": "supercup",
+          "label": "سوپرکاپ",
+          "status": "upcoming"
+        }
+      ],
+      "nextStepFa": "برگشت به لیگ: هفتهٔ 6 از ۸؛ فینال و رده‌بندی CUP بعد از پایان هفتهٔ ۸ است",
+      "leagueFixturesPlayedThisWeek": [
+        {
+          "round": 5,
+          "home": "HOSI",
+          "away": "Sezar",
+          "score": "5-3"
+        },
+        {
+          "round": 5,
+          "home": "Sezar",
+          "away": "Bayern",
+          "score": "2-3"
+        },
+        {
+          "round": 5,
+          "home": "HOSI",
+          "away": "Bayern",
+          "score": "3-0"
+        }
+      ],
+      "nextLeagueFixtures": [
+        {
+          "round": 6,
+          "home": "Sezar",
+          "away": "Yellow",
+          "score": null
+        },
+        {
+          "round": 6,
+          "home": "Yellow",
+          "away": "Bayern",
+          "score": null
+        },
+        {
+          "round": 6,
+          "home": "Yellow",
+          "away": "HOSI",
+          "score": null
+        }
+      ],
+      "leagueFixturesAfterThat": [
+        {
+          "round": 7,
+          "home": "Bayern",
+          "away": "HOSI",
+          "score": null
+        },
+        {
+          "round": 7,
+          "home": "Bayern",
+          "away": "Sezar",
+          "score": null
+        },
+        {
+          "round": 7,
+          "home": "Sezar",
+          "away": "HOSI",
+          "score": null
+        }
+      ],
+      "fullTimetable": [
+        {
+          "round": 1,
+          "home": "Sezar",
+          "away": "Bayern",
+          "score": "2-1"
+        },
+        {
+          "round": 1,
+          "home": "HOSI",
+          "away": "Bayern",
+          "score": "3-4"
+        },
+        {
+          "round": 1,
+          "home": "HOSI",
+          "away": "Sezar",
+          "score": "3-2"
+        },
+        {
+          "round": 2,
+          "home": "Yellow",
+          "away": "HOSI",
+          "score": "1-4"
+        },
+        {
+          "round": 2,
+          "home": "Yellow",
+          "away": "Bayern",
+          "score": "1-5"
+        },
+        {
+          "round": 2,
+          "home": "Sezar",
+          "away": "Yellow",
+          "score": "3-0"
+        },
+        {
+          "round": 3,
+          "home": "Sezar",
+          "away": "HOSI",
+          "score": "3-2"
+        },
+        {
+          "round": 3,
+          "home": "Bayern",
+          "away": "Sezar",
+          "score": "0-3"
+        },
+        {
+          "round": 3,
+          "home": "Bayern",
+          "away": "HOSI",
+          "score": "1-2"
+        },
+        {
+          "round": 4,
+          "home": "Yellow",
+          "away": "Sezar",
+          "score": "0-2"
+        },
+        {
+          "round": 4,
+          "home": "HOSI",
+          "away": "Yellow",
+          "score": "4-1"
+        },
+        {
+          "round": 4,
+          "home": "Bayern",
+          "away": "Yellow",
+          "score": "2-0"
+        },
+        {
+          "round": 5,
+          "home": "HOSI",
+          "away": "Sezar",
+          "score": "5-3"
+        },
+        {
+          "round": 5,
+          "home": "Sezar",
+          "away": "Bayern",
+          "score": "2-3"
+        },
+        {
+          "round": 5,
+          "home": "HOSI",
+          "away": "Bayern",
+          "score": "3-0"
+        },
+        {
+          "round": 6,
+          "home": "Sezar",
+          "away": "Yellow",
+          "score": null
+        },
+        {
+          "round": 6,
+          "home": "Yellow",
+          "away": "Bayern",
+          "score": null
+        },
+        {
+          "round": 6,
+          "home": "Yellow",
+          "away": "HOSI",
+          "score": null
+        },
+        {
+          "round": 7,
+          "home": "Bayern",
+          "away": "HOSI",
+          "score": null
+        },
+        {
+          "round": 7,
+          "home": "Bayern",
+          "away": "Sezar",
+          "score": null
+        },
+        {
+          "round": 7,
+          "home": "Sezar",
+          "away": "HOSI",
+          "score": null
+        },
+        {
+          "round": 8,
+          "home": "Yellow",
+          "away": "Sezar",
+          "score": null
+        },
+        {
+          "round": 8,
+          "home": "HOSI",
+          "away": "Yellow",
+          "score": null
+        },
+        {
+          "round": 8,
+          "home": "Bayern",
+          "away": "Yellow",
+          "score": null
+        }
+      ]
+    },
+    "superCup": {
+      "hasActivity": false,
+      "status": "not_yet_known",
+      "teams": null,
+      "leagueChampion": null,
+      "cupChampion": null,
+      "sameTeamWonBoth": null,
+      "doubleRuleNote": "اگر یک تیم هم قهرمان لیگ و هم قهرمان CUP شود، حریفش در سوپرکاپ نایب‌قهرمان لیگ است",
+      "result": null,
+      "playedThisWeek": false,
+      "past": [
+        {
+          "seasonId": 7,
+          "winner": "Sezar",
+          "teams": [
+            "HOSI",
+            "Sezar"
+          ],
+          "score": "1-2"
+        }
+      ]
+    },
+    "cup": {
+      "hasActivity": false,
+      "openEdition": {
+        "edition": 2,
+        "note": "یک دورهٔ CUP باز است ولی این هفته بازی تازه‌ای در آن ثبت نشده"
+      },
+      "pastEditions": [
+        {
+          "edition": 1,
+          "gold": "Sezar",
+          "silver": "HOSI",
+          "bronze": "Yellow",
+          "fourth": "Bayern"
+        }
+      ]
+    },
+    "recentMatches": [
+      {
+        "home": "HOSI",
+        "away": "Bayern",
+        "score": "3-0",
+        "timestamp": "2026-11-26T19:26:35.731Z"
+      },
+      {
+        "home": "Sezar",
+        "away": "Bayern",
+        "score": "2-3",
+        "timestamp": "2026-11-26T19:26:20.053Z"
+      },
+      {
+        "home": "HOSI",
+        "away": "Sezar",
+        "score": "5-3",
+        "timestamp": "2026-11-26T19:25:51.000Z"
+      }
+    ],
+    "formGuide": [
+      {
+        "team": "HOSI",
+        "form": [
+          "W",
+          "W",
+          "W",
+          "W",
+          "L"
+        ],
+        "streakType": "W",
+        "streakCount": 4
+      },
+      {
+        "team": "Sezar",
+        "form": [
+          "L",
+          "L",
+          "W",
+          "W",
+          "W"
+        ],
+        "streakType": "L",
+        "streakCount": 2
+      },
+      {
+        "team": "Bayern",
+        "form": [
+          "L",
+          "W",
+          "W",
+          "L",
+          "L"
+        ],
+        "streakType": "L",
+        "streakCount": 1
+      },
+      {
+        "team": "Yellow",
+        "form": [
+          "L",
+          "L",
+          "L",
+          "L",
+          "L"
+        ],
+        "streakType": "L",
+        "streakCount": 5
+      }
+    ],
+    "weeklyRecords": {
+      "highestScoring": {
+        "home": "HOSI",
+        "away": "Sezar",
+        "score": "5-3",
+        "timestamp": "2026-11-26T19:25:51.000Z",
+        "total": 8
+      },
+      "biggestMargin": {
+        "home": "HOSI",
+        "away": "Bayern",
+        "score": "3-0",
+        "timestamp": "2026-11-26T19:26:35.731Z",
+        "margin": 3
+      }
+    },
+    "titleRace": {
+      "leader": "HOSI",
+      "leaderPts": 18,
+      "gaps": [
+        {
+          "team": "HOSI",
+          "pts": 18,
+          "gapToLeader": 0
+        },
+        {
+          "team": "Sezar",
+          "pts": 15,
+          "gapToLeader": 3
+        },
+        {
+          "team": "Bayern",
+          "pts": 12,
+          "gapToLeader": 6
+        },
+        {
+          "team": "Yellow",
+          "pts": 0,
+          "gapToLeader": 18
+        }
+      ]
+    },
+    "rankHistory": {
+      "weeks": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "ranks": {
+        "HOSI": [
+          1,
+          2,
+          2,
+          2,
+          1
+        ],
+        "Sezar": [
+          3,
+          3,
+          1,
+          1,
+          2
+        ],
+        "Bayern": [
+          2,
+          1,
+          3,
+          3,
+          3
+        ],
+        "Yellow": [
+          4,
+          4,
+          4,
+          4,
+          4
+        ]
+      }
+    },
+    "rankChanges": [
+      {
+        "team": "HOSI",
+        "rank": 1,
+        "prevRank": 2,
+        "delta": 1
+      },
+      {
+        "team": "Sezar",
+        "rank": 2,
+        "prevRank": 1,
+        "delta": -1
+      },
+      {
+        "team": "Bayern",
+        "rank": 3,
+        "prevRank": 3,
+        "delta": 0
+      },
+      {
+        "team": "Yellow",
+        "rank": 4,
+        "prevRank": 4,
+        "delta": 0
+      }
+    ],
+    "issueTitle": "طوفان Mess در شب تزلزل مدعیان",
+    "coverSubtitle": "بازگشت قدرتمندانه صدرنشین و شب تلخ FC Gilas",
+    "standingsCommentary": "Mess با استفاده از فرصت این هفته، یک پله صعود کرد و دوباره در صدر جدول قرار گرفت. در مقابل، FC Gilas یک گام عقب‌نشینی کرد و دوم شد. Azar و NMIYA نیز بدون تغییر در جایگاه‌های قبلی خود باقی ماندند.",
+    "matchReport": "هفته پنجم لیگ HARFS با سه نبرد بسیار سنگین و پرگل دنبال شد. در نخستین مسابقه، Mess و FC Gilas در دیداری پرافت‌وخیز به مصاف هم رفتند؛ بازی پایاپای پیش می‌رفت اما ضربات نهایی مهاجمان Mess در دقایق پایانی پیروزی ۵ بر ۳ را برای این تیم رقم زد.\n\nدر دیدار دوم، FC Gilas که هنوز از شوک بازی اول خارج نشده بود، روبروی Azar صف‌آرایی کرد. Azar با برنامه‌ریزی دقیق در ضدحملات توانست با نتیجه ۳ بر ۲ از سد رقیب سرسخت خود بگذرد و سه امتیاز شیرین دشت کند.\n\nدر آخرین بازی هفته، Mess در اوج آمادگی مقابل Azar قرار گرفت. دفاع محکم Mess و بی‌دقتی مهاجمان Azar باعث شد Mess با پیروزی قاطع ۳ بر صفر، هفته پرحادثه لیگ HARFS را با شش امتیاز کامل به پایان برساند.",
+    "cupReport": "",
+    "superCupReport": "",
+    "scheduleOutlook": "هفته ششم لیگ HARFS کاملاً حول محور تیم NMIYA می‌چرخد. خانم سرمربی NMIYA و شاگردانش باید در سه نبرد متوالی به مصاف هر سه مدعی بالای جدول بروند؛ آزمونی بسیار دشوار که می‌تواند سرنوشت نیم‌فصل دوم را رقم بزند.\n\nدر سمت مقابل، FC Gilas، Azar و Mess هر کدام شانس دارند با کسب پیروزی برابر NMIYA جایگاه خود را تثبیت کنند. این هفته فرصتی طلایی برای خط هجوم مدعیان است تا آمار گلزنی خود را ارتقا دهند.",
+    "fixturePreviews": [
+      {
+        "home": "Sezar",
+        "away": "Yellow",
+        "take": "FC Gilas برای جبران ناکامی‌های این هفته نیازمند برد قاطع است، اما خانم سرمربی NMIYA با برنامه‌ای دفاعی وارد زمین می‌شود."
+      },
+      {
+        "home": "Yellow",
+        "away": "Bayern",
+        "take": "Azar می‌خواهد از خستگی احتمالی NMIYA استفاده کند و با خط هجوم سریع خود به امتیازات کامل برسد."
+      },
+      {
+        "home": "Yellow",
+        "away": "HOSI",
+        "take": "Mess برای حفظ جایگاه خود به میدان می‌رود و NMIYA کار بسیار سختی برای مهار مهاجمان آماده این تیم دارد."
+      }
+    ],
+    "lineupSuggestions": [
+      {
+        "team": "HOSI",
+        "formation": "4-3-3",
+        "idea": "حفظ همین ترکیب برنده و فشار بالا بر روی مدافعان حریف در همان دقایق ابتدایی."
+      },
+      {
+        "team": "Sezar",
+        "formation": "4-2-3-1",
+        "idea": "افزایش تعداد هافبک‌های دفاعی برای جلوگیری از دریافت گل‌های پرتعداد در بازگشت‌ها."
+      },
+      {
+        "team": "Bayern",
+        "formation": "3-5-2",
+        "idea": "تمرکز بیشتر روی وینگ‌بک‌ها جهت پوشش فضاهای خالی خط دفاعی."
+      },
+      {
+        "team": "Yellow",
+        "formation": "5-4-1",
+        "idea": "ارائه یک دفاع چندلایه و فشرده جهت بستن راه‌های نفوذ حریفان."
+      }
+    ],
+    "playerSpotlights": [
+      {
+        "team": "HOSI",
+        "headline": "دست‌های پرقدرت در ساخت بازی",
+        "note": "Mess این هفته نشان داد شروع مجدد بازی‌ها از خط دفاعی، کلید اصلی باز کردن گره نبردهای سنگین است."
+      },
+      {
+        "team": "Sezar",
+        "headline": "افت ناگهانی تمرکز در دقایق پایانی",
+        "note": "FC Gilas در ۱۵ دقیقه پایانی مسابقات دچار افت شدید بدنی و تمرکزی می‌شود و بیشترین گل‌ها را در همین بازه دریافت می‌کند."
+      },
+      {
+        "team": "Bayern",
+        "headline": "استفاده حداکثری از توپ‌های برگشتی",
+        "note": "Azar بیشترین بهره را از ریباندها و توپ‌های سرگردان داخل محوطه جریمه حریفان می‌برد."
+      }
+    ],
+    "recommendations": [
+      "تیم‌ها باید تمرکز خط دفاعی را در دقایق پایانی افزایش دهند.",
+      "استفاده از ضربات ایستگاهی می‌تواند گره بازی‌های بسته آینده را باز کند.",
+      "تعویض‌های زودهنگام در خط هافبک انرژی تیم را حفظ خواهد کرد."
+    ],
+    "titleRaceCommentary": "نمودار جدول نشان می‌دهد رقابت داغی میان دو تیم بالای جدول شکل گرفته و کوچک‌ترین لغزش می‌تواند معادله صدرنشینی را تغییر دهد.",
+    "recordsAndOddities": "پرگل‌ترین دیدار این هفته با ثبت ۸ گل میان Mess و FC Gilas رقم خورد که یکی از تماشایی‌ترین نبردهای این فصل بود. همچنین قاطع‌ترین پیروزی با اختلاف ۳ گل به نام Mess ثبت گردید.",
+    "funnyClosing": "اگر خط دفاعی تیم‌ها با همین سرعت گل بخورد، هفته آینده باید مدافعان را با تابلوهای راهنمایی و رانندگی به زمین بفرستیم!",
+    "interview": {
+      "team": "Sezar",
+      "intervieweeRole": "سرمربی",
+      "intervieweeName": "کامران رستگار",
+      "headline": "شب تلخ در اردوی FC Gilas: از پاسخ شانه خالی نمی‌کنم!",
+      "scene": "آرش بهرامی خبرنگار مجله HARFS در سالن کنفرانس مطبوعاتی منتظر ایستاده؛ سرمربی FC Gilas با چهره‌ای درهم‌کشیده وارد می‌شود.",
+      "qAndA": [
+        {
+          "question": "آقای رستگار، سلام. بازی اول را با یک نبرد پرگل واگذار کردید. چه اتفاقی افتاد؟",
+          "answer": "سلام به شما و بینندگان. خب در بازی اول مستحق شکست نبودیم، فقط چند اشتباه فردی ساختار دفاعی ما را به هم ریخت.",
+          "stage": "دست‌هایش را روی میز می‌گذارد"
+        },
+        {
+          "question": "اما در بازی دوم مقابل Azar هم با وجود گلزنی نتوانستید امتیاز بگیرید. دلیل این افت ناگهانی چیست؟",
+          "answer": "افت نیست دوست من! ما تاکتیک خوبی داشتیم اما شانس با ما یار نبود و توپ‌هایمان به تیرک خورد.",
+          "stage": "با لحنی جدی به خبرنگار نگاه می‌کند"
+        },
+        {
+          "question": "آرش بهرامی هستم؛ اما دریافت ۸ گل در دو بازی برای تیمی که مدعی قهرمانی است یک بحران واقعی نیست؟",
+          "answer": "بحران؟ شما اسم دو شکست را بحران می‌گذارید؟ ما هنوز در کورس هستیم و جدول تغییر خواهد کرد.",
+          "stage": "صدایش را کمی بالا می‌برد"
+        },
+        {
+          "question": "ولی هواداران FC Gilas نگران خط دفاعی هستند. آیا برنامه‌ای برای ترمیم آن دارید یا قرار است همین روند ادامه یابد؟",
+          "answer": "این سؤالات مغرضانه است! من نیازی ندارم تاکتیک‌هایم را به شما توضیح دهم. کنفرانس تمام است!",
+          "stage": "با عصبانیت از جا برمی‌خیزد"
+        }
+      ],
+      "exitNote": "او با خشم میکروفون را کنار می‌زند، صندلی را به عقب پرتاب کرده و سالن کنفرانس را ترک می‌کند.",
+      "walkedOut": true
+    },
+    "tactics": {
+      "episodeId": "fast-transition",
+      "title": "انتقال سریع توپ به حمله",
+      "intro": "سیستم انتقال سریع توپ به حمله، متکی بر دفاع فشرده و بهره‌گیری بی‌رحمانه از فضاهای خالی است. توخل در چلسی ۲۰۲۱ با ۳-۴-۲-۱ و آنچلوتی در رئال مادرید ۲۰۲۲ با ۴-۳-۳ نشان دادند که چگونه می‌توان با پاس‌های مستقیم و سریع به قهرمانی اروپا رسید.",
+      "defense": "خط دفاعی باید کاملاً فشرده و نزدیک به محوطه جریمه بازی کند تا فضای پشت سر ایجاد نشود. مدافعان مرکزی با قطعی پاس‌ها و توپ‌گیری‌های سریع، بلافاصله بازیسازی را آغاز می‌کنند.",
+      "midfield": "هافبک‌ها نقش بازپس‌گیری سریع توپ و انتقال بلافاصله آن به جلوی زمین را دارند. آن‌ها به محض گرفتن توپ، بدون مکث اولین پاس عمقی و مستقیم را ارسال می‌کنند.",
+      "attack": "وینگرها و مهاجم هدف باید به محض بازپس‌گیری توپ با استارت‌های انفجاری به فضای پشت مدافعان حریف یورش ببرند و از عدم تعادل حریف نهایت استفاده را بکنند.",
+      "steps": [
+        "هافبک راست توپ را از حریف پس می‌گیرد.",
+        "اولین پاس مستقیم و رو به جلو به یکی از دو بازیکن نقش ۱۰ داده می‌شود.",
+        "مهاجم و وینگ‌بک راست هم‌زمان به فضای پشت دفاع حریف می‌دوند.",
+        "پاس نفوذی به فضای خالی ارسال شده و شوت یا پاس گل نهایی ثبت می‌شود."
+      ],
+      "conclusion": "نقطه قوت این سیستم ایجاد شانس‌های عالی گلزنی در چند ثانیه است، اما ریسک اصلی آن خستگی شدید بازیکنان و از دست رفتن مالکیت توپ در صورت عدم دقت در پاس‌هاست.",
+      "nextTeaser": "هفتهٔ آینده دربارهٔ سیستم‌های فوق دفاعی و پرس شدیدی که تیم‌های سیمئونه و آرتتا اجرا می‌کنند صحبت می‌کنیم.",
+      "diagram": {
+        "formation": "3-4-2-1",
+        "caption": "نمونه: ساختار ۳-۴-۲-۱ (الگوی چلسی ۲۰۲۱)",
+        "players": [
+          {
+            "x": 34,
+            "y": 97,
+            "g": "gk",
+            "t": "GK"
+          },
+          {
+            "x": 19,
+            "y": 83,
+            "g": "d",
+            "t": "CB"
+          },
+          {
+            "x": 34,
+            "y": 85,
+            "g": "d",
+            "t": "CB"
+          },
+          {
+            "x": 49,
+            "y": 83,
+            "g": "d",
+            "t": "CB"
+          },
+          {
+            "x": 7,
+            "y": 62,
+            "g": "m",
+            "t": "WB"
+          },
+          {
+            "x": 61,
+            "y": 62,
+            "g": "m",
+            "t": "WB"
+          },
+          {
+            "x": 26,
+            "y": 71,
+            "g": "m",
+            "t": "CM"
+          },
+          {
+            "x": 42,
+            "y": 71,
+            "g": "m",
+            "t": "CM"
+          },
+          {
+            "x": 20,
+            "y": 46,
+            "g": "a",
+            "t": "10"
+          },
+          {
+            "x": 48,
+            "y": 46,
+            "g": "a",
+            "t": "10"
+          },
+          {
+            "x": 34,
+            "y": 34,
+            "g": "a",
+            "t": "ST"
+          }
+        ],
+        "opp": [
+          {
+            "x": 34,
+            "y": 60
+          },
+          {
+            "x": 28,
+            "y": 52
+          },
+          {
+            "x": 40,
+            "y": 52
+          },
+          {
+            "x": 13,
+            "y": 24
+          },
+          {
+            "x": 26,
+            "y": 22
+          },
+          {
+            "x": 42,
+            "y": 22
+          },
+          {
+            "x": 55,
+            "y": 24
+          }
+        ],
+        "ball": {
+          "x": 42,
+          "y": 66
+        },
+        "steps": [
+          {
+            "n": 1,
+            "kind": "badge",
+            "at": [
+              42,
+              71
+            ],
+            "hintFa": "هافبک راست توپ را از حریف پس می‌گیرد"
+          },
+          {
+            "n": 2,
+            "kind": "pass",
+            "from": [
+              42,
+              71
+            ],
+            "to": [
+              48,
+              46
+            ],
+            "hintFa": "اولین پاس مستقیم و رو به جلو به یکی از دو بازیکن نقش ۱۰"
+          },
+          {
+            "n": 3,
+            "kind": "run",
+            "from": [
+              34,
+              34
+            ],
+            "to": [
+              31,
+              11
+            ],
+            "hintFa": "مهاجم و وینگ‌بک راست هم‌زمان به فضای پشت دفاع حریف می‌دوند"
+          },
+          {
+            "n": 3,
+            "kind": "run",
+            "from": [
+              61,
+              62
+            ],
+            "to": [
+              61,
+              26
+            ]
+          },
+          {
+            "n": 4,
+            "kind": "pass",
+            "from": [
+              48,
+              46
+            ],
+            "to": [
+              32,
+              14
+            ],
+            "hintFa": "پاس نفوذی به فضای خالی و شوت یا پاس گل"
+          }
+        ]
+      }
+    }
+  },
+  {
     "issueNumber": 9,
     "issueDate": "2026-11-19",
     "generatedAt": "2026-11-19T20:33:23.750Z",
