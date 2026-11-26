@@ -172,12 +172,6 @@
         "uid": "46940749",
         "card": "crb4yy8dl",
         "active": false
-      },
-      {
-        "uid": "e9c52f4f",
-        "card": "c7gijr4os",
-        "active": true,
-        "at": 1795718963761
       }
     ],
     "Sezar": [
@@ -192,22 +186,10 @@
         "active": false
       },
       {
-        "uid": "86cee8a5",
-        "card": "cc2risvvh",
-        "active": true,
-        "at": 1795719028470
-      },
-      {
         "uid": "38e83e9a",
         "card": "c85tfr00u",
         "active": false,
         "at": 1795717812872
-      },
-      {
-        "uid": "574835f9",
-        "card": "crb4yy8dl",
-        "active": true,
-        "at": 1795717822841
       }
     ],
     "Bayern": [
@@ -247,6 +229,33 @@
     ]
   },
   "log": [
+    {
+      "ts": 1795721150538,
+      "type": "used",
+      "team": "Sezar",
+      "card": "cc2risvvh",
+      "name": "Never",
+      "game": "L:r5m1",
+      "note": ""
+    },
+    {
+      "ts": 1795721150538,
+      "type": "used",
+      "team": "Sezar",
+      "card": "crb4yy8dl",
+      "name": "Restart",
+      "game": "L:r5m1",
+      "note": ""
+    },
+    {
+      "ts": 1795721150538,
+      "type": "used",
+      "team": "HOSI",
+      "card": "c7gijr4os",
+      "name": "-1 Goal",
+      "game": "L:r5m1",
+      "note": ""
+    },
     {
       "ts": 1795118447150,
       "type": "used",
@@ -682,6 +691,35 @@
       "ts": 1795118504603,
       "home": null,
       "away": null
+    },
+    "L:8:1792072105481:r5m1": {
+      "stage": "league",
+      "ts": 1795721150538,
+      "home": {
+        "team": "HOSI",
+        "cards": [
+          {
+            "card": "c7gijr4os",
+            "name": "-1 Goal",
+            "cancelled": false
+          }
+        ]
+      },
+      "away": {
+        "team": "Sezar",
+        "cards": [
+          {
+            "card": "crb4yy8dl",
+            "name": "Restart",
+            "cancelled": false
+          },
+          {
+            "card": "cc2risvvh",
+            "name": "Never",
+            "cancelled": false
+          }
+        ]
+      }
     }
   },
   "bonus": {}
